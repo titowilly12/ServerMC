@@ -2673,16 +2673,26 @@
           "claimed:1": 0,
           "uuid:8": "b8ccce96-c699-316b-86ea-02864658d0f4",
           "timestamp:4": 1733029657947
+        },
+        "1:10": {
+          "claimed:1": 0,
+          "uuid:8": "48508611-5ac5-3287-a37b-baccee41d47d",
+          "timestamp:4": 1733095573574
         }
       },
       "tasks:9": {
         "0:10": {
           "completeUsers:9": {
-            "0:8": "b8ccce96-c699-316b-86ea-02864658d0f4"
+            "0:8": "b8ccce96-c699-316b-86ea-02864658d0f4",
+            "1:8": "48508611-5ac5-3287-a37b-baccee41d47d"
           },
           "userProgress:9": {
             "0:10": {
               "uuid:8": "b8ccce96-c699-316b-86ea-02864658d0f4",
+              "value:3": 1
+            },
+            "1:10": {
+              "uuid:8": "48508611-5ac5-3287-a37b-baccee41d47d",
               "value:3": 1
             }
           },
