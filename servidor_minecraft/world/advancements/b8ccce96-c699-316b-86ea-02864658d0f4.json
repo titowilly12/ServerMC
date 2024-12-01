@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-01 05:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-01 04:53:25 +0000"
@@ -8,6 +14,24 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-01 04:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-01 05:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-01 05:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2024-12-01 05:10:25 +0000"
     },
     "done": true
   },
@@ -102,6 +126,7 @@
       "beaches": "2024-12-01 04:49:41 +0000",
       "savanna": "2024-12-01 04:45:11 +0000",
       "plains": "2024-12-01 04:42:19 +0000",
+      "ocean": "2024-12-01 05:02:10 +0000",
       "roofed_forest": "2024-12-01 04:50:36 +0000",
       "river": "2024-12-01 04:44:05 +0000"
     },
@@ -137,6 +162,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-01 05:06:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-01 04:50:30 +0000"
@@ -155,6 +186,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-01 05:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-01 05:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:43:46 +0000"
@@ -164,6 +207,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-01 04:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-01 05:10:01 +0000"
     },
     "done": true
   },
@@ -269,6 +318,12 @@
     },
     "done": true
   },
+  "reskillable:main/root": {
+    "criteria": {
+      "level_up": "2024-12-01 05:06:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-01 04:46:16 +0000"
@@ -305,6 +360,12 @@
     },
     "done": true
   },
+  "familiarfauna:recipes/tools/bug_net": {
+    "criteria": {
+      "has_string": "2024-12-01 05:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-01 04:53:25 +0000"
@@ -314,6 +375,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-01 05:10:01 +0000"
     },
     "done": true
   },
@@ -343,7 +410,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "skeleton": "2024-12-01 05:01:07 +0000"
+      "skeleton": "2024-12-01 05:01:07 +0000",
+      "spider": "2024-12-01 05:10:24 +0000"
     },
     "done": false
   },
@@ -365,6 +433,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2024-12-01 05:06:48 +0000"
+    },
+    "done": false
+  },
+  "mujmajnkraftsbettersurvival:crossbow": {
+    "criteria": {
+      "has_string": "2024-12-01 05:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-01 04:48:22 +0000"
@@ -377,9 +457,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-01 05:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-01 05:01:23 +0000"
     },
     "done": true
   },
