@@ -1,3 +1,22 @@
 {
-  "parties:9": {}
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "48508611-5ac5-3287-a37b-baccee41d47d",
+          "status:8": "MEMBER"
+        },
+        "1:10": {
+          "uuid:8": "d7b548a9-f0a1-34e9-9688-c1616d727bd6",
+          "status:8": "OWNER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "Barrancabermeja"
+        }
+      }
+    }
+  }
 }
