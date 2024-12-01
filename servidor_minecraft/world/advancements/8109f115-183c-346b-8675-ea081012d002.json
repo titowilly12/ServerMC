@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-01 04:23:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-01 04:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-01 04:24:37 +0000"
     },
     "done": true
   },
@@ -17,9 +29,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-01 04:23:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-01 04:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-01 04:24:37 +0000"
     },
     "done": true
   },
@@ -41,9 +65,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "creeper": "2024-12-01 04:23:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-01 04:14:30 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:wood_nunchaku": {
+    "criteria": {
+      "has_stick": "2024-12-01 04:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "creeper": "2024-12-01 04:23:06 +0000"
+    },
+    "done": false
+  },
+  "mujmajnkraftsbettersurvival:wood_hammer": {
+    "criteria": {
+      "has_stick": "2024-12-01 04:24:37 +0000"
     },
     "done": true
   },
@@ -56,6 +104,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-01 04:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-01 04:24:37 +0000"
     },
     "done": true
   },
@@ -73,8 +127,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "birch_forest": "2024-12-01 04:22:13 +0000",
+      "deep_ocean": "2024-12-01 04:27:21 +0000",
       "beaches": "2024-12-01 04:19:24 +0000",
       "desert_hills": "2024-12-01 04:13:08 +0000",
+      "plains": "2024-12-01 04:30:20 +0000",
+      "ocean": "2024-12-01 04:29:45 +0000",
+      "extreme_hills": "2024-12-01 04:21:40 +0000",
       "river": "2024-12-01 04:14:51 +0000",
       "desert": "2024-12-01 04:15:11 +0000"
     },
@@ -86,9 +145,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-01 04:24:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-01 04:14:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-01 04:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-01 04:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-01 04:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-01 04:25:16 +0000"
     },
     "done": true
   },
@@ -110,15 +199,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-01 04:24:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2024-12-01 04:16:36 +0000"
     },
     "done": true
   },
+  "mujmajnkraftsbettersurvival:wood_spear": {
+    "criteria": {
+      "has_stick": "2024-12-01 04:24:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2024-12-01 04:14:50 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:wood_dagger": {
+    "criteria": {
+      "has_stick": "2024-12-01 04:24:37 +0000"
     },
     "done": true
   },
@@ -131,6 +238,18 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-01 04:14:30 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:wood_battleaxe": {
+    "criteria": {
+      "has_stick": "2024-12-01 04:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-01 04:23:14 +0000"
     },
     "done": true
   },
