@@ -3957,3 +3957,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:50:50] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_grassland_builtin_custom_loot at {"x": 3251, "y": 0, "z": -7329}.
 [04:50:59] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5337ms behind, skipping 106 tick(s)
 [04:51:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[04:52:47] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[04:54:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly has made the advancement [Getting an Upgrade]
+[04:55:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 has made the advancement [Getting an Upgrade]
+[04:55:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wutfru has made the advancement [Getting an Upgrade]
+[04:56:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wutfru was pummeled by Spriggan
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:101]: Warning: Tried to create a EntityFallingTree with no branch blocks. This shouldn't be possible.
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: java.lang.Exception
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.setData(EntityFallingTree.java:102)
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.entities.EntityFallingTree.dropTree(EntityFallingTree.java:483)
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.blocks.BlockBranch.futureBreak(BlockBranch.java:432)
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.FutureBreak.process(FutureBreak.java:47)
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at com.ferreusveritas.dynamictrees.event.CommonEventHandler.onWorldTick(CommonEventHandler.java:21)
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_938_CommonEventHandler_onWorldTick_WorldTickEvent.invoke(.dynamic)
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onPreWorldTick(FMLCommonHandler.java:287)
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:752)
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+[04:58:53] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
+[05:00:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 has made the advancement [Sweet dreams]
+[05:00:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly has made the advancement [Sweet dreams]
+[05:01:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was shot by Skeleton
+[05:01:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 has made the advancement [Monster Hunter]
+[05:01:08] [Thread-132/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for b8ccce96-c699-316b-86ea-02864658d0f4.
