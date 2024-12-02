@@ -3846,3 +3846,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:01:20] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (0 tiles)
 [22:01:20] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player fandangolol
 [22:01:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> en el suelo
+[22:02:00] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:02:33] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[22:02:33] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (0 tiles)
+[22:02:33] [Server thread/INFO] [antiqueatlas]: Sent Atlas #1 data to player Brick_123
+[22:02:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:02:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> ok y para que es esto?
+[22:02:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> un mapa
+[22:03:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> tienes hacha?
+[22:03:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> nop
+[22:03:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> hay una pero no tengo nivel
+[22:07:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> voy a dungeon
+[22:08:14] [Server thread/INFO] [antiqueatlas]: Created new marker #1"gui.antiqueatlas.marker.tomb fandangolol"@(-1023, -4409)
+[22:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Zombie Villager
+[22:08:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> ??
+[22:08:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> a dolmi
+[22:08:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:09:09] [Server thread/INFO] [antiqueatlas]: Created new marker #1"gui.antiqueatlas.marker.tomb Brick_123"@(-998, -4436)
+[22:09:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Balayang  Lvl 2
+[22:09:12] [Thread-97/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for b8ccce96-c699-316b-86ea-02864658d0f4.
+[22:09:30] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:09:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Balayang  Lvl 2
+[22:09:55] [Server thread/INFO] [antiqueatlas]: Sent markers data #1 to player Brick_123
+[22:10:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:10:50] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player fandangolol
