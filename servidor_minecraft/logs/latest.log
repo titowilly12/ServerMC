@@ -4127,3 +4127,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:22:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to Brick_123]
 [03:22:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
 [03:22:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[03:29:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Battletower Golem
+[03:29:51] [Thread-244/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for b8ccce96-c699-316b-86ea-02864658d0f4.
+[03:30:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ShadowKgro was slain by Kobold
+[03:31:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was doomed to fall by Tremor
+[03:32:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ShadowKgro was slain by Book Wyrm
+[03:32:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was shot by Skeleton
+[03:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ShadowKgro has made the advancement [Sweet dreams]
+[03:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Zombie
+[03:34:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ShadowKgro was shot by Skeleton
+[03:34:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was shot by Skeleton
+[03:35:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was shot by Skeleton
+[03:35:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ShadowKgro was shot by Skeleton
+[03:35:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ShadowKgro lost connection: Disconnected
+[03:35:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ShadowKgro left the game
