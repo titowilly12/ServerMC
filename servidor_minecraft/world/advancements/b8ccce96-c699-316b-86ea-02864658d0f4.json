@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2024-12-01 05:10:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 05:17:40 +0000"
@@ -50,12 +44,6 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-01 04:52:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2024-12-02 00:55:01 +0000"
     },
     "done": true
   },
@@ -134,12 +122,6 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-02 00:32:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-01 04:52:04 +0000"
     },
     "done": true
   },
@@ -345,12 +327,6 @@
     },
     "done": true
   },
-  "mujmajnkraftsbettersurvival:stone_dagger": {
-    "criteria": {
-      "has_stone": "2024-12-01 04:43:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 02:32:12 +0000"
@@ -385,12 +361,6 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-01 05:17:40 +0000"
-    },
-    "done": true
-  },
-  "mujmajnkraftsbettersurvival:wood_dagger": {
-    "criteria": {
-      "has_stick": "2024-12-01 04:48:22 +0000"
     },
     "done": true
   },
@@ -544,12 +514,6 @@
     },
     "done": true
   },
-  "qualitytools:recipes/qualitytools/emerald_amulet": {
-    "criteria": {
-      "has_emerald": "2024-12-02 03:02:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-02 02:09:58 +0000"
@@ -565,12 +529,6 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-01 05:00:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-01 05:15:40 +0000"
     },
     "done": true
   },
@@ -604,12 +562,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stonebrick": "2024-12-02 02:06:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2024-12-01 04:44:03 +0000"
@@ -622,21 +574,9 @@
     },
     "done": true
   },
-  "mujmajnkraftsbettersurvival:gold_dagger": {
-    "criteria": {
-      "has_gold": "2024-12-02 00:34:59 +0000"
-    },
-    "done": true
-  },
   "defiledlands:recipes/decoration/stone_defiled_bricks": {
     "criteria": {
       "has_material": "2024-12-02 03:04:14 +0000"
-    },
-    "done": true
-  },
-  "qualitytools:recipes/qualitytools/emerald_ring": {
-    "criteria": {
-      "has_emerald": "2024-12-02 03:02:35 +0000"
     },
     "done": true
   },
@@ -673,12 +613,6 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:26:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2024-12-02 03:13:28 +0000"
     },
     "done": true
   },
@@ -868,12 +802,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stonebrick": "2024-12-02 02:06:04 +0000"
-    },
-    "done": true
-  },
   "defiledlands:recipes/decoration/stone_defiled_slab_sandstone": {
     "criteria": {
       "has_material": "2024-12-02 03:18:54 +0000"
@@ -970,15 +898,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-02 03:13:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-02 02:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-02 03:13:28 +0000"
     },
     "done": true
   },
@@ -1003,12 +931,6 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_yellow_flower": "2024-12-02 03:34:52 +0000"
-    },
-    "done": true
-  },
-  "defiledlands:recipes/decoration/sandstone_defiled_stairs": {
-    "criteria": {
-      "has_material": "2024-12-02 03:18:54 +0000"
     },
     "done": true
   },
@@ -1334,12 +1256,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/iron_door": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-01 05:26:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-02 01:58:18 +0000"
@@ -1484,12 +1400,6 @@
     },
     "done": true
   },
-  "mujmajnkraftsbettersurvival:iron_dagger": {
-    "criteria": {
-      "has_iron": "2024-12-01 05:26:10 +0000"
-    },
-    "done": true
-  },
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2024-12-01 04:52:04 +0000"
@@ -1523,12 +1433,6 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:43:46 +0000"
-    },
-    "done": true
-  },
-  "defiledlands:recipes/decoration/stone_defiled_stairs": {
-    "criteria": {
-      "has_material": "2024-12-02 03:04:14 +0000"
     },
     "done": true
   },
@@ -1577,12 +1481,6 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-02 03:31:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/wooden_door": {
-    "criteria": {
-      "has_planks": "2024-12-01 04:52:04 +0000"
     },
     "done": true
   },
