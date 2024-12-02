@@ -3918,3 +3918,108 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [02:24:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to fandangolol]
 [02:24:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
 [02:24:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[02:26:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Wraamon  Lvl 2
+[02:26:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[02:26:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[02:26:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[02:26:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Darkling  Lvl 2
+[02:26:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[02:26:30] [Thread-112/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 48508611-5ac5-3287-a37b-baccee41d47d.
+[02:26:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[02:27:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was shot by Skeleton
+[02:27:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Zombie
+[02:27:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was shot by Skeleton
+[02:27:59] [Thread-118/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for d7b548a9-f0a1-34e9-9688-c1616d727bd6.
+[02:27:59] [Thread-117/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for b8ccce96-c699-316b-86ea-02864658d0f4.
+[02:28:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported fandangolol to TitoWilly
+[02:28:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[02:28:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was shot by Skeleton
+[02:28:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[02:28:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[02:29:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to fandangolol]
+[02:29:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[02:29:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[02:30:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Brick_123
+[02:30:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Grue  Lvl 2
+[02:31:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Grue  Lvl 2
+[02:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by fandangolol
+[02:31:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Brick_123
+[02:31:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Brick_123
+[02:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Brick_123
+[02:32:06] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3140ms behind, skipping 62 tick(s)
+[02:32:30] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3533ms behind, skipping 70 tick(s)
+[02:33:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly walked into a cactus whilst trying to escape Krake  Lvl 2
+[02:33:13] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2219ms behind, skipping 44 tick(s)
+[02:33:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly drowned
+[02:33:31] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 102 and chunkZ 357...
+[02:33:31] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_swamp_builtin_custom_loot at {"x": 1564, "y": 0, "z": 5666}...
+[02:33:34] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_swamp_builtin_custom_loot at {"x": 1564, "y": 0, "z": 5666}.
+[02:33:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3921ms behind, skipping 78 tick(s)
+[02:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Siren
+[02:33:51] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3890ms behind, skipping 77 tick(s)
+[02:33:55] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAILeaveHive
+[02:33:55] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIMoveThroughHive
+[02:33:55] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIReEnterHive
+[02:33:55] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedProximityTaskOldMyrmex
+[02:33:55] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[02:33:55] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIFindHidingSpot
+[02:33:55] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[02:34:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly moved too quickly! -9.296408831846293,-0.5061350207273421,-4.391929044890276
+[02:34:11] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5556ms behind, skipping 111 tick(s)
+[02:34:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Amphithere
+[02:34:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2352ms behind, skipping 47 tick(s)
+[02:35:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly drowned
+[02:36:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2535ms behind, skipping 50 tick(s)
+[02:36:47] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id doorTileEntity
+[02:36:47] [Server thread/WARN] [net.minecraft.tileentity.TileEntity]: Skipping BlockEntity with id doorTileEntity
+[02:36:47] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.burnoutReduction'
+[02:36:47] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.manaRegenModifier'
+[02:36:47] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxBurnoutBonus'
+[02:36:47] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxManaBonus'
+[02:36:47] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.xpMultiplier'
+[02:36:47] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'cyberware.tolerance'
+[02:36:47] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.burnoutReduction'
+[02:36:47] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.manaRegenModifier'
+[02:36:47] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxBurnoutBonus'
+[02:36:47] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.maxManaBonus'
+[02:36:47] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'am2.xpMultiplier'
+[02:36:47] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'cyberware.tolerance'
+[02:37:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was turned into KFC by a dragon
+[02:37:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> XD
+[02:37:44] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2706ms behind, skipping 54 tick(s)
+[02:38:08] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
+[02:38:08] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[02:39:12] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 357 and chunkZ 153...
+[02:39:12] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_villager_house_sandy at {"x": 5385, "y": 0, "z": 2409}...
+[02:39:14] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_villager_house_sandy at {"x": 5385, "y": 0, "z": 2409}.
+[02:39:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly moved too quickly! -7.03581418592421,2.252203415101306,6.9558508922687
+[02:39:32] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 5928 | 2568 ], underground: false
+[02:39:32] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.routine.IAFOldDeathWormRoutine$WrappedProximityTaskOldDeathWorm
+[02:39:33] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 5960 | 2568 ], underground: false
+[02:40:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to fandangolol]
+[02:41:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> duerme fandal
+[02:41:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> tito
+[02:41:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly lost connection: Disconnected
+[02:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly left the game
+[02:41:24] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[02:41:24] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 188 mods : wolfarmor@3.8.1+alpha.1,levelup2@${version},grapplemod@1.12.2-v12.3,friendlyendermite@1.0,disenchanter@1.8,foodexpansion@1.3,globalgamerules@2.2,alcatrazcore@1.0.4,elenaidodge@2.1,creativecoredummy@1.0.0,fantasticlib@1.12.2.047,fishingmadebetter@2.2.6,incontrol@3.9.18,betternether@0.1.8.6,contenttweaker@1.12.2-4.10.0,multimine@1.6.2,bettercaves@1.12.2,neat@1.4-17,forgeendertech@1.12.2-4.5.6.1,reborncore@3.19.5,betterquesting@3.5.329,controlling@3.0.10,enhancedvisuals@1.3.0,placebo@1.6.0,bettertabs@1.0.4,forgelin@1.8.4,familiarfauna@1.0.11,llibrary@1.7.20,snowrealmagic@0.7.1,librarianliblate@4.22,carryon@1.12.3,bq_msi@1.0.9,loadingscreens@0.3.1,mainmenuscale@1.0,bq_standard@3.4.173,fbp@2.4.1,corpse@1.12.2-1.0.8,mcwbridges@1.0.6,dshuds@3.6.0.0,crafttweakerjei@2.0.3,aireducer@0.3.0,mtlib@3.0.7,craftablechainmail@1.0,chunkanimator@1.12.2-1.2,compatskills@1.12.2-1.17.0,defiledlands@1.4.3,battletowers@1.6.5,reccomplex@1.4.8.4,modtweaker@4.0.19,notreepunching@2.0.21,corpsecomplex@1.0.12.0,helpfixer@1.12.1-1.5.18,resourceloader@1.5.3,lycanitesmobs@2.0.8.9 - MC 1.12.2,bountiful@2.2.3,spark@1.6.3,blockoverlayfix@1.0.0,roguelike@2.4.4,potioncore@1.9_for_1.12.2,carrots@1.0.0b1,betterbiomeblend@1.12.2-1.1.7-forge,qualitytools@1.0.7_for_1.12.2,forgottenitems@1.2.1,spartanfire@1.1.0,lostcities@2.0.22,dynamictreesdefiledlands@1.12.2-1.0.0,FML@8.0.99.99,rtg@6.1.0.0-snapshot.1,spartanweaponry@1.5.3,itemphysic@1.4.0,charm@1.4,dttraverse@1.12.2-2.1,particleculling@v1.4.1,scalinghealth@1.3.37,switchbow@1.6.8,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,setbonus@1.12.2.020,materialtweaker@1.1.1,kiwi@0.5.3.32,ctgui@1.0.0,dldungeonsjbg@1.14.12,advanced-fishing@1.3.3,reachfix@1.0.8,rltweaker@0.5.12,librarianlib@4.22,coralreef@2.0,xpfromharvest@1.2.0,renderlib@1.2.8,trumpetskeleton@1.12-1.0.2.1,bountifulbaubles@0.0.1,locks@3.0.0,googlyeyes@7.1.1,jei@4.16.1.302,bnbgaminglib@2.17.6,attributefix@1.0.12,callablehorses@1.1.1,custommainmenu@2.0.9.1,pigstep@1.12,simpledifficulty@0.3.9,ivtoolkit@1.3.3-1.12,iseedragons@1.2.1,mujmajnkraftsbettersurvival@1.5.3,potionfingers@r1.0-8,yungslaw@1.12.2,waystones@4.1.0,mcp@9.42,comforts@1.4.1.3,framevoidpatch@1.0.0,artifacts@1.1.2,tumbleweed@1.12-0.4.7,sereneseasons@1.2.18,classyhats@%VERSION%,adhooks@1.12.2-3.3.1.0,champions@1.12.2-1.0.11.10,surge@2.0.79,inventorytweaks@1.64+dev.151.822d839,foamfixcore@7.7.4,realistictorches@2.1.2,bettercombatmod@2.0.8,rlmixins@1.2.14,xat@0.32,iceandfire@1.7.1,toastcontrol@1.8.1,ichunutil@7.2.2,traverse@1.6.0,crafttweaker@4.1.20,antiquecities@1.0,firstaid@1.6.22,forge@14.23.5.2860,playerbosses@1.0,ruins@17.2,portaldupebegone@1.0.0,testdummy@1.12,phosphor-lighting@1.12.2-0.2.6,wearablebackpacks@3.2.6,orelib@3.6.0.1,dsurround@3.6.2.1,antiqueatlas@4.6.3,infernalmobs@1.7.6,spartandefiled@1.0,variedcommodities@1.12.2,minecraft@1.12.2,inspirations@1.12.2-0.2.9,itlt@1.0.4,enchdesc@1.1.20,fxcontrol@0.1.14,bedbreakbegone@1.0.2,mousetweaks@2.10.1,roughtweaks@1.0,toolbelt@1.9.14,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,tschipplib@1.1.6,somanyenchantments@0.5.5,rustic@1.1.7,astikorcarts@1.12.2-0.1.2.8,armorunder@1.0.0,bloodmoon@1.5.3,quark@r1.6-179,mantle@1.12-1.3.3.55,legendarytooltips@1.1.9,loottweaker@0.3.1,spartanshields@1.5.5,tnt_utilities@1.2.3,xaerominimap@24.6.1,bqtweaker@1.3.5,autoreglib@1.3-32,reskillable@1.12.2-1.13.0,spartanhudbaubles@1.0.0 Indev 1,sit@v1.3,entityculling@6.3.1,anvilpatch@1.1.1,srparasites@1.9.11,spawnercontrol@1.6.3b,shieldbreak@1.1.3,xaerominimap_core@1.12.2-1.0,antiqueatlasoverlay@1.2,foamfix@@VERSION@,aquaculture@1.6.8,tnt_utilities_core@1.2.3,collisiondamage@1.2.2,soundfilters@0.12.1_for_1.12,betterfoliage@2.3.2,mobends@1.2.1,base@3.14.0,xpbook@v1.1.6
+[02:41:25] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:41:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TitoWilly[/127.22.28.28:50399] logged in with entity id 95632 at (6205.608880528258, 64.13804579054163, 2390.573283176869)
+[02:41:25] [Server thread/INFO] [dsurround]: Player [TitoWilly] connected with Dynamic Surroundings 3.6.2.1
+[02:41:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly joined the game
+[02:41:25] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player TitoWilly
+[02:41:25] [Server thread/INFO] [rlmixins.RLMixins]: Syncing Quark configuration with player: TitoWilly
+[02:41:25] [Server thread/INFO] [SimpleDifficulty]: Sending Configuration to player: TitoWilly
+[02:41:25] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player TitoWilly
+[02:41:25] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player TitoWilly
+[02:41:25] [Server thread/INFO] [XAT]: Syncing Config to TitoWilly
+[02:41:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> invita al brick a tilines
+[02:41:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Barghest  Lvl 2
+[02:41:42] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -459 and chunkZ 357...
+[02:41:42] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_swamp_builtin_custom_loot at {"x": -7452, "y": 0, "z": 5619}...
+[02:41:46] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_swamp_builtin_custom_loot at {"x": -7452, "y": 0, "z": 5619}.
+[02:41:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6037ms behind, skipping 120 tick(s)
+[02:42:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly drowned
+[02:42:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2715ms behind, skipping 54 tick(s)
+[02:42:26] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ 9832 | 4360 ], underground: false
+[02:44:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly went up in flames
