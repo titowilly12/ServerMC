@@ -115,6 +115,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2024-12-02 00:23:25 +0000",
       "birch_forest": "2024-12-01 23:56:48 +0000",
       "deep_ocean": "2024-12-01 23:24:47 +0000",
       "beaches": "2024-12-01 23:39:31 +0000",
@@ -123,6 +124,12 @@
       "river": "2024-12-01 23:56:45 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-02 00:23:12 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
@@ -226,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-02 00:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-01 23:54:06 +0000"
@@ -256,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-12-02 00:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
       "entered_water": "2024-12-01 23:24:47 +0000"
@@ -271,6 +290,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-12-01 23:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-02 00:19:22 +0000"
     },
     "done": true
   },
@@ -454,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-02 00:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2024-12-02 00:06:48 +0000"
@@ -493,6 +524,12 @@
   "mujmajnkraftsbettersurvival:wood_battleaxe": {
     "criteria": {
       "has_stick": "2024-12-01 23:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 00:17:44 +0000"
     },
     "done": true
   },
