@@ -4141,3 +4141,31 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [03:35:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ShadowKgro was shot by Skeleton
 [03:35:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ShadowKgro lost connection: Disconnected
 [03:35:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ShadowKgro left the game
+[03:36:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was shot by Skeleton
+[03:36:09] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 840 | 5352 ], underground: false
+[03:36:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2309ms behind, skipping 46 tick(s)
+[03:36:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[03:37:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> si
+[03:38:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to TitoWilly: a
+[03:38:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[03:39:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to Brick_123: RUN
+[03:39:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[03:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[03:39:25] [Server thread/WARN] [com.matthewprenger.helpfixer.HelpFixer]: Identified command with null usage, Ignoring: com.github.fnar.roguelike.command.CommandRoguelike1_12
+[03:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: --- Showing help page 1 of 26 (/help <page>) ---
+[03:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: #&  <1>...
+[03:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: #as  <commands.parameters.entity> <commands.parameters.command> [args...]...
+[03:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: #biome <help|search|types|list>
+[03:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: #copy 
+[03:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: #decorate  [z1] [x1] [z2] [x2] --one --exp [null]
+[03:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: #delete  <file type> [resource expression]... --directory <directory>
+[03:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: #dimension <help|types|list>
+[03:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tip: Use the <tab> key while typing a command to auto-complete the command or its arguments
+[03:40:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 blew up
+[03:41:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was pummeled by Argus
+[03:43:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 drowned
+[03:44:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was pummeled by Verdant Cinder
+[03:44:33] [Thread-279/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 48508611-5ac5-3287-a37b-baccee41d47d.
+[03:45:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[03:45:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was pummeled by Verdant Cinder
+[03:45:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
