@@ -3793,3 +3793,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:06:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol has made the advancement [A Seedy Place]
 [04:06:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly lost connection: Disconnected
 [04:06:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly left the game
+[04:28:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol died from parasites
