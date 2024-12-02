@@ -905,6 +905,12 @@
     },
     "done": true
   },
+  "wolfarmor:recipes/combat/diamond_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-12-02 23:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2024-12-02 03:31:16 +0000"
