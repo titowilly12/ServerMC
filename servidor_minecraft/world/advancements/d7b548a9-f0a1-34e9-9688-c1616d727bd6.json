@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-02 03:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-02 02:30:27 +0000"
@@ -50,6 +56,12 @@
   "mujmajnkraftsbettersurvival:stone_spear": {
     "criteria": {
       "has_stone": "2024-12-01 23:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-02 03:14:25 +0000"
     },
     "done": true
   },
@@ -200,6 +212,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2024-12-01 23:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-02 03:03:39 +0000"
     },
     "done": true
   },
@@ -410,6 +428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-02 03:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-01 23:44:40 +0000"
@@ -467,6 +491,12 @@
   "sereneseasons:recipes/tools/season_clock": {
     "criteria": {
       "has_redstone": "2024-12-02 02:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-02 03:03:39 +0000"
     },
     "done": true
   },
@@ -745,6 +775,12 @@
     },
     "done": true
   },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_quartz": "2024-12-02 03:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-01 23:44:40 +0000"
@@ -898,6 +934,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 01:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2024-12-02 03:14:25 +0000"
     },
     "done": true
   },
@@ -1159,6 +1201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-02 03:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2024-12-02 02:30:13 +0000"
@@ -1173,8 +1221,11 @@
       "beaches": "2024-12-01 23:39:31 +0000",
       "forest_hills": "2024-12-02 01:53:54 +0000",
       "plains": "2024-12-01 23:26:43 +0000",
+      "savanna": "2024-12-02 03:00:26 +0000",
+      "savanna_rock": "2024-12-02 03:00:39 +0000",
       "ocean": "2024-12-01 23:42:43 +0000",
-      "river": "2024-12-01 23:56:45 +0000"
+      "river": "2024-12-01 23:56:45 +0000",
+      "desert": "2024-12-02 02:59:53 +0000"
     },
     "done": false
   },
@@ -1292,6 +1343,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-02 03:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-02 03:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-02 01:02:07 +0000"
@@ -1367,6 +1430,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-02 01:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2024-12-02 02:47:19 +0000"
     },
     "done": true
   },

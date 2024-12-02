@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-02 03:13:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-01 04:53:25 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "defiledlands:main/hephaestite": {
+    "criteria": {
+      "hephaestite": "2024-12-02 03:04:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-01 04:48:22 +0000"
@@ -206,6 +218,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-01 04:46:16 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/torch_hephaestite": {
+    "criteria": {
+      "has_material": "2024-12-02 03:04:45 +0000"
     },
     "done": true
   },
@@ -297,9 +315,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-02 02:49:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:26:10 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/storage/hephaestite_block_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-02 03:04:51 +0000"
     },
     "done": true
   },
@@ -320,6 +350,12 @@
       "has_gravel": "2024-12-01 04:53:25 +0000"
     },
     "done": true
+  },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "desert_defiled": "2024-12-02 03:03:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
@@ -411,9 +447,21 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-02 03:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-01 04:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-02 03:13:28 +0000"
     },
     "done": true
   },
@@ -474,6 +522,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:26:10 +0000"
+    },
+    "done": true
+  },
+  "qualitytools:recipes/qualitytools/emerald_amulet": {
+    "criteria": {
+      "has_emerald": "2024-12-02 03:02:35 +0000"
     },
     "done": true
   },
@@ -555,6 +609,18 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_bricks": {
+    "criteria": {
+      "has_material": "2024-12-02 03:04:14 +0000"
+    },
+    "done": true
+  },
+  "qualitytools:recipes/qualitytools/emerald_ring": {
+    "criteria": {
+      "has_emerald": "2024-12-02 03:02:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-01 04:52:04 +0000"
@@ -588,6 +654,24 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-02 03:13:28 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone": {
+    "criteria": {
+      "has_material": "2024-12-02 03:04:14 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_mossy": {
+    "criteria": {
+      "has_material": "2024-12-02 03:04:14 +0000"
     },
     "done": true
   },
@@ -655,6 +739,7 @@
     "criteria": {
       "zombie_villager": "2024-12-02 01:34:30 +0000",
       "skeleton": "2024-12-01 05:01:07 +0000",
+      "husk": "2024-12-02 03:00:37 +0000",
       "cave_spider": "2024-12-02 00:33:14 +0000",
       "zombie": "2024-12-02 00:00:06 +0000",
       "spider": "2024-12-01 05:10:24 +0000",
@@ -689,6 +774,18 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-02 00:55:01 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-02 03:04:14 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_mossy": {
+    "criteria": {
+      "has_material": "2024-12-02 03:04:14 +0000"
     },
     "done": true
   },
@@ -818,6 +915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-02 03:13:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-02 02:13:57 +0000"
@@ -878,6 +981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-02 02:49:31 +0000"
+    },
+    "done": true
+  },
   "familiarfauna:recipes/tools/bug_net": {
     "criteria": {
       "has_string": "2024-12-01 05:10:25 +0000"
@@ -926,6 +1035,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/storage/hephaestite_block": {
+    "criteria": {
+      "has_material": "2024-12-02 03:04:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2024-12-01 04:52:04 +0000"
@@ -953,6 +1068,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-02 02:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-02 02:49:31 +0000"
     },
     "done": true
   },
@@ -1100,6 +1221,12 @@
     },
     "done": true
   },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "craft": "2024-12-02 03:14:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-02 02:21:30 +0000"
@@ -1114,9 +1241,11 @@
       "beaches": "2024-12-01 04:49:41 +0000",
       "savanna": "2024-12-01 04:45:11 +0000",
       "plains": "2024-12-01 04:42:19 +0000",
+      "savanna_rock": "2024-12-02 03:04:42 +0000",
       "ocean": "2024-12-01 05:02:10 +0000",
       "roofed_forest": "2024-12-01 04:50:36 +0000",
-      "river": "2024-12-01 04:44:05 +0000"
+      "river": "2024-12-01 04:44:05 +0000",
+      "desert": "2024-12-02 02:49:32 +0000"
     },
     "done": false
   },
@@ -1135,6 +1264,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 02:32:12 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/blastem_fruit_blazing": {
+    "criteria": {
+      "has_material": "2024-12-02 03:04:45 +0000"
     },
     "done": true
   },
@@ -1165,6 +1300,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:43:46 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/root": {
+    "criteria": {
+      "desert_defiled": "2024-12-02 03:03:45 +0000"
     },
     "done": true
   },
@@ -1294,6 +1435,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_stairs": {
+    "criteria": {
+      "has_material": "2024-12-02 03:04:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 05:17:40 +0000"
@@ -1309,6 +1456,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 05:17:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-02 03:13:28 +0000"
     },
     "done": true
   },
