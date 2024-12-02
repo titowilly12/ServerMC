@@ -325,6 +325,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-01 23:59:58 +0000",
       "cooked_mutton": "2024-12-01 05:06:48 +0000",
       "porkchop": "2024-12-01 05:23:02 +0000"
     },
@@ -339,6 +340,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-01 04:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-02 00:03:56 +0000"
     },
     "done": true
   },
@@ -772,6 +779,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2024-12-01 05:01:07 +0000",
+      "zombie": "2024-12-02 00:00:06 +0000",
       "spider": "2024-12-01 05:10:24 +0000"
     },
     "done": false
