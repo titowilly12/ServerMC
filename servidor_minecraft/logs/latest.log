@@ -3815,3 +3815,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [02:03:13] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player TitoWilly
 [02:03:13] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player TitoWilly
 [02:03:13] [Server thread/INFO] [XAT]: Syncing Config to TitoWilly
+[02:06:07] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[02:06:07] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[02:06:07] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[02:06:07] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[02:06:07] [Server thread/INFO] [Meson ASM]: Patch result: true
+[02:06:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Wraamon  Lvl 2
+[02:07:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[02:07:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Wraamon  Lvl 2
+[02:07:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Teleported Brick_123 to TitoWilly
+[02:07:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[02:07:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly has made the advancement [Diamonds!]
+[02:08:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Wraamon  Lvl 2
+[02:08:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[02:08:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[02:09:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[02:09:58] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[02:09:58] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[02:09:58] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[02:09:58] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[02:09:58] [Server thread/INFO] [Meson ASM]: Patch result: true
+[02:10:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was shot by Skeleton
+[02:11:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[02:12:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Chupacabra  Lvl 2
+[02:12:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[02:12:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was pummeled by Vapula  Lvl 2
+[02:12:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[02:13:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[02:14:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Lux Wraamon  Lvl 2
+[02:14:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[02:14:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Tremor  Lvl 2
+[02:14:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[02:14:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Chupacabra  Lvl 2
+[02:14:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[02:15:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Verdant Ettin  Lvl 2
+[02:15:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Lux Wraamon  Lvl 2

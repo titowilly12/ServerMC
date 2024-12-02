@@ -392,6 +392,12 @@
     },
     "done": true
   },
+  "craftablechainmail:craft_iron_nugget": {
+    "criteria": {
+      "iron_nugget": "2024-12-02 02:05:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-02 01:02:07 +0000"
@@ -724,6 +730,12 @@
   "mujmajnkraftsbettersurvival:iron_spear": {
     "criteria": {
       "has_iron": "2024-12-02 01:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2024-12-02 02:05:55 +0000"
     },
     "done": true
   },
