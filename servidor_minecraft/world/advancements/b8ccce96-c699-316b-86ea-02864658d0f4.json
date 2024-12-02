@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-02 00:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-01 04:52:04 +0000"
@@ -311,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-02 00:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:26:10 +0000"
@@ -327,6 +339,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-01 23:59:58 +0000",
       "cooked_mutton": "2024-12-01 05:06:48 +0000",
+      "cooked_beef": "2024-12-02 00:11:25 +0000",
       "porkchop": "2024-12-01 05:23:02 +0000"
     },
     "done": false
@@ -587,6 +600,7 @@
     "criteria": {
       "forest": "2024-12-01 04:53:15 +0000",
       "swampland": "2024-12-01 04:48:16 +0000",
+      "deep_ocean": "2024-12-02 00:11:19 +0000",
       "beaches": "2024-12-01 04:49:41 +0000",
       "savanna": "2024-12-01 04:45:11 +0000",
       "plains": "2024-12-01 04:42:19 +0000",
@@ -749,6 +763,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2024-12-01 05:17:31 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/leather_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-12-02 00:14:04 +0000"
     },
     "done": true
   },
