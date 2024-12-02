@@ -340,6 +340,7 @@
   },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
+      "desert_defiled": "2024-12-02 03:22:17 +0000",
       "forest_tenebra": "2024-12-02 01:42:11 +0000"
     },
     "done": false

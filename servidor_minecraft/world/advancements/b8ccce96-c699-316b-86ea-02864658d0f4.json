@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/foul_candy": {
+    "criteria": {
+      "has_material": "2024-12-02 03:17:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 05:17:40 +0000"
@@ -362,6 +368,13 @@
       "has_planks": "2024-12-01 04:52:04 +0000"
     },
     "done": true
+  },
+  "defiledlands:main/kill_all_mobs": {
+    "criteria": {
+      "slime_defiled": "2024-12-02 03:17:05 +0000",
+      "host": "2024-12-02 03:17:13 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
@@ -747,6 +760,12 @@
     },
     "done": false
   },
+  "defiledlands:recipes/material/defilement_powder": {
+    "criteria": {
+      "has_material": "2024-12-02 03:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 02:32:12 +0000"
@@ -822,6 +841,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2024-12-02 02:06:04 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_slab_sandstone": {
+    "criteria": {
+      "has_material": "2024-12-02 03:18:54 +0000"
     },
     "done": true
   },
@@ -942,6 +967,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-02 00:52:55 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/sandstone_defiled_stairs": {
+    "criteria": {
+      "has_material": "2024-12-02 03:18:54 +0000"
     },
     "done": true
   },
@@ -1110,6 +1141,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-02 01:31:34 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_slab_sandstone_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-02 03:18:54 +0000"
     },
     "done": true
   },
@@ -1288,6 +1325,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:43:46 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/sandstone_defiled_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-02 03:18:54 +0000"
     },
     "done": true
   },
