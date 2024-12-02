@@ -3987,3 +3987,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:12:02] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player TitoWilly
 [23:12:02] [Server thread/INFO] [XAT]: Syncing Config to TitoWilly
 [23:12:02] [Thread-207/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 48508611-5ac5-3287-a37b-baccee41d47d.
+[23:13:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> llevo ya 45 muertes
+[23:15:25] [Server thread/INFO] [antiqueatlas]: Created new marker #9"gui.antiqueatlas.marker.tomb Brick_123"@(-943, -4566)
+[23:15:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Azure Spectre  Lvl 2
+[23:15:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> tp :c
+[23:15:30] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:15:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> lo tepeo a mi?
+[23:15:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> si
+[23:15:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[23:16:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> alguna dungeon en donde farmear xp y no me partan la cabeza??
+[23:16:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> brick donde andas??
+[23:18:52] [Server thread/INFO] [antiqueatlas]: Created new marker #10"gui.antiqueatlas.marker.tomb Brick_123"@(-952, -4586)
+[23:18:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Chupacabra  Lvl 2
+[23:19:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[23:19:15] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:19:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:21:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Grue  Lvl 2
+[23:21:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[23:21:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> tp tptp
+[23:21:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> tp
+[23:21:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[23:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> TnT
