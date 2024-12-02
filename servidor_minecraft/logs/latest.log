@@ -4124,3 +4124,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:32:18] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player fandangolol
 [23:32:18] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player fandangolol
 [23:32:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 tried to swim in lava to escape Husk
+[23:34:04] [Server thread/INFO] [antiqueatlas]: Created new marker #11"gui.antiqueatlas.marker.tomb fandangolol"@(-942, -4613)
+[23:34:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Grue  Lvl 2
+[23:34:15] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:35:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol drowned
+[23:35:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[23:35:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[23:36:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Darkling  Lvl 2
+[23:36:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:37:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Dark Wraamon  Lvl 2
+[23:37:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[23:37:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Brick_123
+[23:37:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[23:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Spectre  Lvl 2
+[23:38:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Chupacabra  Lvl 2
+[23:38:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[23:38:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[23:38:44] [Server thread/INFO] [antiqueatlas]: Created new marker #14"gui.antiqueatlas.marker.tomb Brick_123"@(-937, -4606)
+[23:38:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Chupacabra  Lvl 2
+[23:38:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:38:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:39:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Chupacabra  Lvl 2
+[23:39:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[23:39:33] [Server thread/INFO] [antiqueatlas]: Created new marker #15"gui.antiqueatlas.marker.tomb Brick_123"@(-937, -4604)
+[23:39:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Chupacabra  Lvl 2
+[23:39:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:40:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was shot by Brick_123
+[23:40:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[23:40:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was shot by Brick_123
+[23:40:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[23:40:15] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:42:32] [Server thread/INFO] [antiqueatlas]: Created new marker #12"gui.antiqueatlas.marker.tomb fandangolol"@(-954, -4625)
+[23:42:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Spectre  Lvl 2
