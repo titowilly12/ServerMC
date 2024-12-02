@@ -195,3 +195,27 @@
 [01:05:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was doomed to fall by Skeleton
 [01:05:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
 [01:05:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[01:07:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was shot by Skeleton
+[01:07:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[01:07:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was shot by Skeleton
+[01:07:35] [Thread-294/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 48508611-5ac5-3287-a37b-baccee41d47d.
+[01:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[01:07:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was shot by Skeleton
+[01:07:40] [Thread-296/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for d7b548a9-f0a1-34e9-9688-c1616d727bd6.
+[01:07:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[01:07:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[01:08:04] [Server thread/INFO] [Scaling Health]: Blight Skeleton was killed by Brick_123
+[01:10:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol has made the advancement [Attack!]
+[01:10:24] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[01:10:24] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[01:10:24] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[01:10:24] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[01:10:24] [Server thread/INFO] [Meson ASM]: Patch result: true
+[01:11:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly has made the advancement [Take Aim]
+[01:13:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by TitoWilly
+[01:13:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[01:15:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Chupacabra
+[01:15:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Darkling
+[01:15:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[01:15:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was blown up by Creeper
+[01:15:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Grue
