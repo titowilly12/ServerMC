@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-02 00:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 04:36:10 +0000"
@@ -26,6 +32,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:16:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-02 00:31:58 +0000"
     },
     "done": true
   },
@@ -110,6 +122,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 04:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-02 00:30:06 +0000"
     },
     "done": true
   },
@@ -200,6 +218,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2024-12-01 02:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-02 00:31:58 +0000"
     },
     "done": true
   },
@@ -323,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-02 00:30:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2024-12-02 00:11:34 +0000"
@@ -359,9 +389,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-02 00:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-01 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-02 00:31:58 +0000"
     },
     "done": true
   },
@@ -410,6 +452,12 @@
   "sereneseasons:recipes/tools/season_clock": {
     "criteria": {
       "has_redstone": "2024-12-02 00:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-02 00:31:58 +0000"
     },
     "done": true
   },
@@ -509,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-02 00:26:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2024-12-01 23:48:38 +0000"
@@ -604,6 +658,7 @@
       "zombie_villager": "2024-12-01 23:32:21 +0000",
       "skeleton": "2024-12-01 05:02:27 +0000",
       "zombie": "2024-12-01 04:25:23 +0000",
+      "cave_spider": "2024-12-02 00:31:39 +0000",
       "spider": "2024-12-01 23:32:12 +0000",
       "creeper": "2024-12-01 23:33:00 +0000",
       "enderman": "2024-12-01 23:31:01 +0000"
@@ -613,6 +668,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-01 04:58:01 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:crossbow": {
+    "criteria": {
+      "has_string": "2024-12-02 00:31:41 +0000"
     },
     "done": true
   },
@@ -649,6 +710,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-01 04:17:12 +0000"
+    },
+    "done": true
+  },
+  "sereneseasons:recipes/redstone/season_sensor": {
+    "criteria": {
+      "has_quartz": "2024-12-02 00:31:58 +0000"
     },
     "done": true
   },
@@ -826,6 +893,12 @@
     },
     "done": true
   },
+  "familiarfauna:recipes/tools/bug_net": {
+    "criteria": {
+      "has_string": "2024-12-02 00:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-01 04:17:12 +0000"
@@ -895,6 +968,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 00:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-02 00:31:41 +0000"
     },
     "done": true
   },
@@ -976,6 +1055,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-02 00:26:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2024-12-02 00:22:19 +0000"
@@ -1027,6 +1112,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 00:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-02 00:31:58 +0000"
     },
     "done": true
   },
@@ -1147,6 +1238,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-01 05:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-02 00:31:58 +0000"
     },
     "done": true
   },

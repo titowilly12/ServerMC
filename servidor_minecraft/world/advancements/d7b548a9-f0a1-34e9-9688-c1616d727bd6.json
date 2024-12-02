@@ -403,6 +403,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "cave_spider": "2024-12-02 00:34:19 +0000",
       "zombie": "2024-12-02 00:13:39 +0000"
     },
     "done": false
@@ -418,6 +419,12 @@
       "has_planks": "2024-12-02 00:06:48 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-02 00:25:21 +0000"
+    },
+    "done": false
   },
   "mujmajnkraftsbettersurvival:crossbow": {
     "criteria": {

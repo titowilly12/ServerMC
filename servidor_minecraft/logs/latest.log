@@ -58,3 +58,20 @@
 [00:24:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Cave Spider
 [00:25:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Wutfru lost connection: Disconnected
 [00:25:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Wutfru left the game
+[00:26:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly has made the advancement [Ice Bucket Challenge]
+[00:27:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was shot by Skeleton
+[00:27:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[00:28:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was shot by Skeleton
+[00:28:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Zombie
+[00:28:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fandangolol moved too quickly! -10.122014507181575,-0.369373602165453,1.2933718871672681
+[00:28:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[00:32:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by TitoWilly
+[00:32:26] [Thread-185/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for b8ccce96-c699-316b-86ea-02864658d0f4.
+[00:32:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[00:33:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Brick_123
+[00:33:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[00:35:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was shot by Skeleton
+[00:35:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was shot by Skeleton
+[00:35:12] [Thread-193/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 48508611-5ac5-3287-a37b-baccee41d47d.
+[00:35:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[00:35:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
