@@ -3757,3 +3757,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:39:20] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
 [21:39:20] [Server thread/INFO] [Meson ASM]: Patch result: true
 [21:40:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Battletower Golem
+[21:42:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 has made the advancement [Take Aim]
+[21:42:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was pummeled by Battletower Golem
+[21:43:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Battletower Golem
+[21:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was blown up by Battletower Golem
+[21:48:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Kobold  Lvl 2
