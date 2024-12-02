@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-02 01:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-02 01:02:07 +0000"
@@ -80,6 +86,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-01 23:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2024-12-02 01:38:37 +0000"
     },
     "done": true
   },
@@ -366,9 +378,21 @@
     },
     "done": true
   },
+  "defiledlands:main/discover_all_biomes": {
+    "criteria": {
+      "forest_tenebra": "2024-12-02 01:42:11 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2024-12-02 00:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:37:18 +0000"
     },
     "done": true
   },
@@ -486,9 +510,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2024-12-02 01:40:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-02 01:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-02 01:41:29 +0000"
     },
     "done": true
   },
@@ -534,6 +570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:37:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-01 23:48:15 +0000"
@@ -561,6 +603,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2024-12-01 23:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2024-12-02 01:38:37 +0000"
     },
     "done": true
   },
@@ -618,6 +666,12 @@
     },
     "done": true
   },
+  "defiledlands:main/root": {
+    "criteria": {
+      "forest_tenebra": "2024-12-02 01:42:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-01 23:27:13 +0000"
@@ -645,6 +699,12 @@
   "reskillable:main/root": {
     "criteria": {
       "level_up": "2024-12-02 00:11:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:37:18 +0000"
     },
     "done": true
   },
@@ -684,9 +744,22 @@
       "blaze": "2024-12-02 00:46:54 +0000",
       "cave_spider": "2024-12-02 00:34:19 +0000",
       "zombie": "2024-12-02 00:13:39 +0000",
-      "spider": "2024-12-02 01:06:28 +0000"
+      "spider": "2024-12-02 01:06:28 +0000",
+      "creeper": "2024-12-02 01:41:26 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2024-12-02 01:38:37 +0000"
+    },
+    "done": true
+  },
+  "wolfarmor:recipes/combat/iron_wolf_armor": {
+    "criteria": {
+      "has_the_item": "2024-12-02 01:35:57 +0000"
+    },
+    "done": true
   },
   "astikorcarts:recipes/wheel": {
     "criteria": {
@@ -709,6 +782,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-01 23:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:37:18 +0000"
     },
     "done": true
   },
@@ -739,6 +818,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-02 00:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-02 01:37:18 +0000"
     },
     "done": true
   },
