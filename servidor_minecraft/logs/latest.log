@@ -4156,3 +4156,59 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:40:15] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [23:42:32] [Server thread/INFO] [antiqueatlas]: Created new marker #12"gui.antiqueatlas.marker.tomb fandangolol"@(-954, -4625)
 [23:42:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Spectre  Lvl 2
+[23:42:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[23:43:15] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:43:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Spectre  Lvl 2
+[23:44:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[23:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Spectre  Lvl 2
+[23:44:26] [Thread-297/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 48508611-5ac5-3287-a37b-baccee41d47d.
+[23:44:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[23:45:08] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@25f14e93
+[23:45:08] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@25f14e93
+[23:45:10] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@25f14e93
+[23:45:10] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@25f14e93
+[23:45:10] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@25f14e93
+[23:45:10] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@25f14e93
+[23:45:16] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@25f14e93
+[23:45:34] [Server thread/INFO] [antiqueatlas]: Created new marker #13"gui.antiqueatlas.marker.tomb fandangolol"@(-954, -4587)
+[23:45:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Geonach  Lvl 2
+[23:45:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[23:46:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Darkling  Lvl 2
+[23:46:15] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:46:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[23:47:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Geonach  Lvl 2
+[23:47:15] [Server thread/INFO] [antiqueatlas]: Created new marker #16"gui.antiqueatlas.marker.tomb Brick_123"@(-957, -4587)
+[23:47:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Geonach  Lvl 2
+[23:47:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was killed trying to hurt Geonach  Lvl 2
+[23:47:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[23:47:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[23:47:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:47:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:47:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Geonach  Lvl 2
+[23:48:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[23:48:07] [Server thread/INFO] [antiqueatlas]: Created new marker #14"gui.antiqueatlas.marker.tomb fandangolol"@(-955, -4590)
+[23:48:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Geonach  Lvl 2
+[23:48:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Geonach  Lvl 2
+[23:48:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[23:48:15] [Server thread/INFO] [antiqueatlas]: Created new marker #17"gui.antiqueatlas.marker.tomb Brick_123"@(-979, -4583)
+[23:48:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Geonach  Lvl 2
+[23:48:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:48:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[23:48:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Geonach  Lvl 2
+[23:48:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Geonach  Lvl 2
+[23:48:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[23:48:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Geonach  Lvl 2
+[23:48:30] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:48:30] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:48:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[23:48:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Geonach  Lvl 2
+[23:48:34] [Server thread/INFO] [Scaling Health]: Blight Geonach  Lvl 2 was killed by TitoWilly
+[23:48:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[23:48:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:49:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:50:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Brick_123
+[23:50:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:50:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:50:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to fandangolol]
+[23:50:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:51:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
