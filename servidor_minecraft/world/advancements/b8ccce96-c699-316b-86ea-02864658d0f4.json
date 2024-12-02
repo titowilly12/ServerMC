@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2024-12-02 22:17:31 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:wood_nunchaku": {
     "criteria": {
       "has_stick": "2024-12-01 04:48:22 +0000"
@@ -167,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2024-12-02 22:17:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-01 04:48:22 +0000"
@@ -224,6 +236,12 @@
   "defiledlands:recipes/misc/torch_hephaestite": {
     "criteria": {
       "has_material": "2024-12-02 03:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2024-12-02 22:17:31 +0000"
     },
     "done": true
   },
@@ -403,6 +421,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-01 04:53:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2024-12-02 22:17:31 +0000"
     },
     "done": true
   },
@@ -774,7 +798,8 @@
       "cave_spider": "2024-12-02 00:33:14 +0000",
       "zombie": "2024-12-02 00:00:06 +0000",
       "spider": "2024-12-01 05:10:24 +0000",
-      "creeper": "2024-12-02 01:33:43 +0000"
+      "creeper": "2024-12-02 01:33:43 +0000",
+      "enderman": "2024-12-02 22:12:48 +0000"
     },
     "done": false
   },
@@ -1021,6 +1046,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-01 05:10:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2024-12-02 22:17:31 +0000"
     },
     "done": true
   },
@@ -1586,6 +1617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2024-12-02 22:16:55 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/iron_wolf_armor": {
     "criteria": {
       "has_the_item": "2024-12-02 00:32:02 +0000"
@@ -1691,6 +1728,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-02 03:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2024-12-02 22:17:31 +0000"
     },
     "done": true
   },

@@ -3870,3 +3870,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:09:55] [Server thread/INFO] [antiqueatlas]: Sent markers data #1 to player Brick_123
 [22:10:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [22:10:50] [Server thread/INFO] [antiqueatlas]: Sent markers data #0 to player fandangolol
+[22:12:16] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@25f14e93
+[22:12:17] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@25f14e93
+[22:12:25] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[22:12:25] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[22:12:25] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[22:12:25] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[22:12:25] [Server thread/INFO] [Meson ASM]: Patch result: true
+[22:12:57] [Server thread/INFO] [antiqueatlas]: Created new marker #2"gui.antiqueatlas.marker.tomb Brick_123"@(-963, -4417)
+[22:12:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Enderman
+[22:13:15] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:20:02] [Server thread/INFO] [antiqueatlas]: Created new marker #3"gui.antiqueatlas.marker.tomb Brick_123"@(-878, -4315)
+[22:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Geist  Lvl 2
+[22:20:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:23:02] [Server thread/INFO] [antiqueatlas]: Created new marker #4"gui.antiqueatlas.marker.tomb Brick_123"@(-951, -4313)
+[22:23:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 fell from a high place
+[22:23:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:26:14] [Server thread/INFO] [antiqueatlas]: Created new marker #2"gui.antiqueatlas.marker.tomb fandangolol"@(-1024, -4546)
+[22:26:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was doomed to fall
+[22:26:17] [Thread-126/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for d7b548a9-f0a1-34e9-9688-c1616d727bd6.
+[22:26:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:27:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was shot by Skeleton
+[22:29:15] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Brick_123)
+[22:29:16] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Brick_123)
+[22:29:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> A DORMIR BRO
+[22:29:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> ando en mina/dungeon
+[22:30:39] [Server thread/INFO] [antiqueatlas]: Created new marker #3"gui.antiqueatlas.marker.tomb fandangolol"@(-1000, -4544)
+[22:30:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was pummeled by Golden Vapula  Lvl 2
+[22:30:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> a
+[22:30:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> ahora si
+[22:31:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> tmr
+[22:31:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> no tengo sueño dice
+[22:31:15] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:31:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> ya
+[22:34:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> la mochila no sirve??
+[22:34:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> tienes que colacarla en el suelo
+[22:34:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> aja pero si la recojo tira todo
+[22:34:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> uy
+[22:34:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> a eso si ns
+[22:35:05] [Server thread/INFO] [antiqueatlas]: Created new marker #4"gui.antiqueatlas.marker.tomb fandangolol"@(-1015, -4539)
+[22:35:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Dark Wraamon  Lvl 2
+[22:35:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:37:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol has made the advancement [Diamonds!]
+[22:41:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> un zombie aldeano me oneshotea pero una banshee lvl2 y un leon me los soleo
+[22:41:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> LOL XD

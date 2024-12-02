@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_bricks_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-02 22:39:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-02 00:06:48 +0000"
@@ -122,6 +128,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-02 01:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 22:37:34 +0000"
     },
     "done": true
   },
@@ -191,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-12-02 01:02:07 +0000"
@@ -215,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2024-12-01 23:44:12 +0000"
@@ -230,6 +254,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-02 01:02:40 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:diamond_nunchaku": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
     },
     "done": true
   },
@@ -254,6 +284,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-02 01:02:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 22:29:46 +0000"
     },
     "done": true
   },
@@ -318,6 +354,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2024-12-02 22:13:58 +0000"
     },
     "done": true
   },
@@ -442,6 +484,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-02 22:38:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-02 04:38:10 +0000"
@@ -520,6 +568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-01 23:54:06 +0000"
@@ -544,9 +598,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-02 22:27:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-12-02 00:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
     },
     "done": true
   },
@@ -598,6 +664,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_bricks": {
+    "criteria": {
+      "has_material": "2024-12-02 22:38:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-02 00:06:48 +0000"
@@ -637,6 +709,18 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 01:58:47 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_slab_stone": {
+    "criteria": {
+      "has_material": "2024-12-02 22:38:28 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_mossy": {
+    "criteria": {
+      "has_material": "2024-12-02 22:38:28 +0000"
     },
     "done": true
   },
@@ -694,9 +778,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-02 01:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 22:29:46 +0000"
     },
     "done": true
   },
@@ -712,9 +814,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 02:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_at_least_9_redstone": "2024-12-02 22:37:34 +0000"
     },
     "done": true
   },
@@ -736,6 +850,18 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-02 22:38:28 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_mossy": {
+    "criteria": {
+      "has_material": "2024-12-02 22:38:28 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/diamond_wolf_armor": {
     "criteria": {
       "has_the_item": "2024-12-02 02:21:00 +0000"
@@ -748,9 +874,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-02 22:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-02 00:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
     },
     "done": true
   },
@@ -856,15 +994,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-02 01:02:07 +0000"
     },
     "done": true
   },
+  "mujmajnkraftsbettersurvival:diamond_battleaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2024-12-02 04:46:33 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-02 22:39:01 +0000"
     },
     "done": true
   },
@@ -988,6 +1144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2024-12-02 22:13:58 +0000"
+    },
+    "done": true
+  },
   "familiarfauna:recipes/tools/bug_net": {
     "criteria": {
       "has_string": "2024-12-01 23:37:50 +0000"
@@ -1036,6 +1198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 22:29:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-02 02:30:27 +0000"
@@ -1069,6 +1237,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 01:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2024-12-02 22:13:58 +0000"
     },
     "done": true
   },
@@ -1150,6 +1324,12 @@
     },
     "done": true
   },
+  "mujmajnkraftsbettersurvival:diamond_hammer": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2024-12-02 00:17:44 +0000"
@@ -1225,6 +1405,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-02 00:47:59 +0000"
+    },
+    "done": true
+  },
+  "mujmajnkraftsbettersurvival:diamond_spear": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
     },
     "done": true
   },
@@ -1319,6 +1505,12 @@
   "defiledlands:main/root": {
     "criteria": {
       "forest_tenebra": "2024-12-02 01:42:11 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_slab_bricks": {
+    "criteria": {
+      "has_material": "2024-12-02 22:39:01 +0000"
     },
     "done": true
   },
@@ -1463,6 +1655,12 @@
   "minecraft:recipes/misc/bone_meal_from_block": {
     "criteria": {
       "has_the_recipe": "2024-12-02 04:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-02 22:37:42 +0000"
     },
     "done": true
   },
