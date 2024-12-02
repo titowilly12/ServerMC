@@ -3801,3 +3801,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [04:40:38] [Server thread/INFO] [Meson ASM]: Patch result: true
 [04:41:21] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2658ms behind, skipping 53 tick(s)
 [04:41:21] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fandangolol moved too quickly! -1.1275979647271015,-1.0625,-10.000902748040971
+[04:43:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Geist
+[04:43:25] [Thread-81/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for d7b548a9-f0a1-34e9-9688-c1616d727bd6.
+[04:50:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: fandangolol lost connection: Disconnected
+[04:50:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol left the game
+[04:51:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: Seastorm In Dimension: 0 Duration: 60secs
+[04:52:24] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Finished: Seastorm
