@@ -3741,3 +3741,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:30:46] [Server thread/INFO] [RLTweakerASM]: Patch exists for ichttt.mods.firstaid.common.util.ArmorUtils
 [21:30:46] [Server thread/INFO] [RLTweakerASM]: Writing class ichttt.mods.firstaid.common.util.ArmorUtils with flags MAXS | FRAMES
 [21:30:46] [Server thread/INFO] [firstaid]: Quality Tools mod present. Enabling compat...
+[21:31:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 drowned
+[21:32:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 drowned
+[21:33:14] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[21:33:14] [Server thread/INFO] [RB-Transformer]:  - <init>
+[21:33:14] [Server thread/INFO] [RB-Transformer]:  - Done
+[21:33:14] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[21:33:14] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[21:33:14] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[21:36:14] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Brick_123)
+[21:36:19] [Server thread/INFO] [Scaling Health]: Blight Kobold  Lvl 2 has died
+[21:39:20] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[21:39:20] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[21:39:20] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[21:39:20] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[21:39:20] [Server thread/INFO] [Meson ASM]: Patch result: true
+[21:40:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Battletower Golem
