@@ -281,11 +281,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-02 04:38:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-02 00:25:21 +0000",
       "beetroot_soup": "2024-12-02 02:01:09 +0000",
       "apple": "2024-12-02 01:45:58 +0000",
+      "cooked_cod": "2024-12-02 04:40:36 +0000",
       "bread": "2024-12-02 01:34:18 +0000"
     },
     "done": false
@@ -441,9 +448,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-02 04:38:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-02 02:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-02 04:38:10 +0000"
     },
     "done": true
   },
@@ -732,6 +751,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2024-12-02 01:01:20 +0000",
+      "husk": "2024-12-02 04:38:57 +0000",
       "blaze": "2024-12-02 00:46:54 +0000",
       "cave_spider": "2024-12-02 00:34:19 +0000",
       "zombie": "2024-12-02 00:13:39 +0000",
@@ -950,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-02 04:38:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2024-12-02 00:17:44 +0000"
@@ -1148,6 +1174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-02 04:38:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 01:58:47 +0000"
@@ -1338,6 +1370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-02 04:38:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-02 04:06:02 +0000"
@@ -1443,6 +1481,12 @@
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2024-12-02 00:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2024-12-02 04:38:10 +0000"
     },
     "done": true
   },
