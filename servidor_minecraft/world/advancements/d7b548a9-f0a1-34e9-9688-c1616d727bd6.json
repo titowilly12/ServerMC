@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_the_recipe": "2024-12-02 04:05:57 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_spear": {
     "criteria": {
       "has_stone": "2024-12-01 23:54:06 +0000"
@@ -390,6 +396,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-02 00:36:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_at_least_9_wheat": "2024-12-02 04:05:57 +0000"
     },
     "done": true
   },
@@ -1028,6 +1040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2024-12-02 03:46:52 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_battleaxe": {
     "criteria": {
       "has_stone": "2024-12-01 23:54:06 +0000"
@@ -1296,6 +1314,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2024-12-02 03:46:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-12-02 00:42:44 +0000"
@@ -1311,6 +1335,12 @@
   "defiledlands:main/root": {
     "criteria": {
       "forest_tenebra": "2024-12-02 01:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-02 04:06:02 +0000"
     },
     "done": true
   },
@@ -1485,6 +1515,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-12-02 00:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2024-12-02 03:46:52 +0000"
     },
     "done": true
   },
