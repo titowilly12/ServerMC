@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2024-12-03 05:30:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-02 00:31:58 +0000"
@@ -74,6 +80,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-01 04:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2024-12-03 05:30:17 +0000"
     },
     "done": true
   },
@@ -197,6 +209,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/scale_chestplate": {
+    "criteria": {
+      "has_material": "2024-12-03 05:29:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-02 02:07:49 +0000"
@@ -292,6 +310,7 @@
       "cooked_porkchop": "2024-12-03 02:46:06 +0000",
       "cooked_mutton": "2024-12-03 03:28:14 +0000",
       "cooked_beef": "2024-12-02 01:32:27 +0000",
+      "apple": "2024-12-03 05:32:49 +0000",
       "cooked_cod": "2024-12-01 05:03:32 +0000",
       "bread": "2024-12-02 03:07:16 +0000",
       "golden_apple": "2024-12-03 04:46:11 +0000"
@@ -425,6 +444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2024-12-03 05:30:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:16:48 +0000"
@@ -452,6 +477,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-01 04:38:28 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_boots": {
+    "criteria": {
+      "has_material": "2024-12-03 05:29:03 +0000"
     },
     "done": true
   },
@@ -777,6 +808,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2024-12-03 03:48:45 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_helmet": {
+    "criteria": {
+      "has_material": "2024-12-03 05:29:03 +0000"
     },
     "done": true
   },
@@ -1245,6 +1282,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-01 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_leggings": {
+    "criteria": {
+      "has_material": "2024-12-03 05:29:03 +0000"
     },
     "done": true
   },
