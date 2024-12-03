@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2024-12-03 02:48:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-03 00:47:20 +0000"
@@ -59,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2024-12-03 03:08:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-02 22:45:21 +0000"
@@ -74,6 +86,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-01 05:17:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2024-12-03 02:48:08 +0000"
     },
     "done": true
   },
@@ -173,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-03 02:40:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-01 04:53:25 +0000"
@@ -242,6 +266,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-01 04:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-03 02:28:47 +0000"
     },
     "done": true
   },
@@ -323,7 +353,10 @@
       "cooked_mutton": "2024-12-01 05:06:48 +0000",
       "cooked_beef": "2024-12-02 00:11:25 +0000",
       "porkchop": "2024-12-01 05:23:02 +0000",
+      "apple": "2024-12-03 01:05:46 +0000",
       "bread": "2024-12-02 01:26:47 +0000",
+      "golden_apple": "2024-12-03 01:21:01 +0000",
+      "rotten_flesh": "2024-12-03 01:26:53 +0000",
       "golden_carrot": "2024-12-02 23:56:27 +0000"
     },
     "done": false
@@ -485,6 +518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2024-12-03 02:48:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:26:10 +0000"
@@ -575,6 +614,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2024-12-03 04:02:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 05:17:40 +0000"
@@ -611,6 +656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2024-12-03 02:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-12-01 04:43:46 +0000"
@@ -626,6 +677,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-03 02:28:47 +0000"
     },
     "done": true
   },
@@ -716,6 +773,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-02 00:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2024-12-03 02:44:44 +0000"
     },
     "done": true
   },
@@ -840,6 +903,7 @@
       "husk": "2024-12-02 03:00:37 +0000",
       "cave_spider": "2024-12-02 00:33:14 +0000",
       "zombie": "2024-12-02 00:00:06 +0000",
+      "witch": "2024-12-03 04:42:11 +0000",
       "spider": "2024-12-01 05:10:24 +0000",
       "creeper": "2024-12-02 01:33:43 +0000",
       "enderman": "2024-12-02 22:12:48 +0000"
@@ -864,9 +928,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2024-12-03 01:29:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 02:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2024-12-03 02:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-03 03:47:46 +0000"
     },
     "done": true
   },
@@ -891,6 +973,12 @@
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 02:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2024-12-03 01:29:50 +0000"
     },
     "done": true
   },
@@ -1122,6 +1210,12 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "craft": "2024-12-03 04:02:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-01 04:52:04 +0000"
@@ -1314,6 +1408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2024-12-03 02:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-01 05:10:25 +0000"
@@ -1359,6 +1459,12 @@
   "defiledlands:recipes/decoration/stone_defiled_slab_sandstone_uncraft": {
     "criteria": {
       "has_material": "2024-12-02 03:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2024-12-03 02:47:24 +0000"
     },
     "done": true
   },
@@ -1431,6 +1537,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-02 00:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2024-12-03 01:03:53 +0000"
     },
     "done": true
   },
@@ -1575,6 +1687,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2024-12-03 02:44:44 +0000"
     },
     "done": true
   },
