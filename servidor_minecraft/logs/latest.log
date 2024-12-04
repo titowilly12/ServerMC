@@ -3721,3 +3721,66 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:11:46] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
 [21:11:46] [Server thread/INFO] [Meson ASM]: Patch result: true
 [21:13:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Chupacabra  Lvl 2
+[21:17:11] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIEscortEntity
+[21:17:11] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.ai.myrmexold.WrappedTaskOldMyrmexAIForage
+[21:17:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:18:35] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[21:18:35] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[21:18:35] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[21:18:35] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[21:18:35] [Server thread/INFO] [Meson ASM]: Patch result: true
+[21:22:12] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.routine.IAFOldDeathWormRoutine$WrappedProximityTaskOldDeathWorm
+[21:23:20] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3020ms behind, skipping 60 tick(s)
+[21:23:20] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair
+[21:23:20] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [updateRepairOutput, func_82848_d, e] Descriptor ()V / ()V)
+[21:23:20] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[21:23:20] [Server thread/INFO] [Meson ASM]: Located target ICONST_0
+[21:23:20] [Server thread/INFO] [Meson ASM]: Patch result: true
+[21:23:20] [Server thread/INFO] [Meson ASM]: Transforming ContainerRepair2
+[21:23:20] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [canTakeStack, func_82869_a, a] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;)Z / (Laed;)Z)
+[21:23:20] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[21:23:20] [Server thread/INFO] [Meson ASM]: Located target IFLE L0
+[21:23:20] [Server thread/INFO] [Meson ASM]: Patch result: true
+[21:23:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved too quickly! 9.150382146835796,0.27122417957609457,-4.328188068246163
+[21:23:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was turned into KFC by a dragon
+[21:23:54] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[21:23:54] [Server thread/INFO] [RB-Transformer]:  - <init>
+[21:23:54] [Server thread/INFO] [RB-Transformer]:  - Done
+[21:23:54] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[21:23:54] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[21:23:54] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[21:24:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was incinerated by a dragon
+[21:26:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[21:27:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:28:29] [Server thread/INFO] [antiqueatlas]: Created new marker #40"gui.antiqueatlas.marker.tomb TitoWilly"@(-809, -4649)
+[21:28:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Myrmex Royal
+[21:28:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[21:29:00] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[21:31:47] [Server thread/INFO] [antiqueatlas]: Created new marker #41"gui.antiqueatlas.marker.tomb TitoWilly"@(-780, -4680)
+[21:31:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Grue  Lvl 2
+[21:31:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[21:31:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:32:00] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[21:33:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Myrmex Soldier
+[21:33:20] [Server thread/INFO] [antiqueatlas]: Created new marker #42"gui.antiqueatlas.marker.tomb TitoWilly"@(-809, -4654)
+[21:33:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Myrmex Soldier
+[21:33:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[21:33:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Myrmex Soldier
+[21:33:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[21:33:30] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[21:33:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:33:54] [Server thread/INFO] [antiqueatlas]: Created new marker #43"gui.antiqueatlas.marker.tomb TitoWilly"@(-806, -4654)
+[21:33:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Myrmex Soldier
+[21:33:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[21:34:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Myrmex Soldier
+[21:34:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[21:34:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:34:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:34:15] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[21:34:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Myrmex Soldier
+[21:34:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[21:34:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Myrmex Soldier
+[21:34:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[21:34:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Myrmex Soldier
+[21:35:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:35:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
