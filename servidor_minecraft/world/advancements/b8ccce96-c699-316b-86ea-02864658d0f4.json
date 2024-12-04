@@ -421,6 +421,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/tears_shulker": {
+    "criteria": {
+      "has_material": "2024-12-04 22:36:30 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/storage/hephaestite_block_uncraft": {
     "criteria": {
       "has_material": "2024-12-02 03:04:51 +0000"
@@ -940,6 +946,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/tears_flame": {
+    "criteria": {
+      "has_material": "2024-12-04 22:36:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_orange_wool": "2024-12-03 02:47:24 +0000"
@@ -1015,6 +1027,12 @@
   "wolfarmor:recipes/combat/diamond_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2024-12-02 23:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2024-12-04 22:28:55 +0000"
     },
     "done": true
   },
@@ -1099,6 +1117,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 05:17:40 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/remorseful_gem": {
+    "criteria": {
+      "has_material": "2024-12-04 22:36:30 +0000"
     },
     "done": true
   },
