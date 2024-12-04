@@ -1459,6 +1459,12 @@
     },
     "done": true
   },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "craft": "2024-12-04 21:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2024-12-03 00:52:06 +0000"

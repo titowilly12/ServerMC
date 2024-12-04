@@ -3784,3 +3784,22 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:34:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Myrmex Soldier
 [21:35:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
 [21:35:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:39:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was killed by magic
+[21:39:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
+[21:39:31] [Thread-82/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for b8ccce96-c699-316b-86ea-02864658d0f4.
+[21:41:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:47:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly has made the advancement [It Comes Back?]
+[21:47:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:47:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by TitoWilly
+[21:50:01] [Server thread/INFO] [antiqueatlas]: Created new marker #44"gui.antiqueatlas.marker.tomb TitoWilly"@(-1037, -4439)
+[21:50:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Brick_123
+[21:50:02] [Thread-99/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 48508611-5ac5-3287-a37b-baccee41d47d.
+[21:50:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by TitoWilly
+[21:50:45] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[21:54:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:54:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 died to water while wearing an Ender Queen's Crown
+[21:54:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:56:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[21:56:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 died to water while wearing an Ender Queen's Crown
+[21:56:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
