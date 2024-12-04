@@ -920,6 +920,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-04 23:25:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-01 04:19:50 +0000"
@@ -1496,6 +1502,7 @@
       "birch_forest_hills": "2024-12-01 04:29:04 +0000",
       "ocean": "2024-12-01 02:48:43 +0000",
       "extreme_hills": "2024-12-01 04:22:12 +0000",
+      "roofed_forest": "2024-12-04 23:26:39 +0000",
       "cold_beach": "2024-12-02 02:32:08 +0000",
       "river": "2024-12-01 04:13:24 +0000",
       "desert": "2024-12-01 04:15:32 +0000"

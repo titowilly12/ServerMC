@@ -3967,3 +3967,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:58:15] [Server thread/WARN] [Ice And Fire]: Myrmex picked up resin that wasn't thrown!
 [22:59:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
 [23:00:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:23:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:25:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly has made the advancement [Best Friends Forever]
+[23:25:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[23:27:39] [Server thread/INFO] [antiqueatlas]: Created new marker #54"gui.antiqueatlas.marker.tomb TitoWilly"@(-1408, -3784)
+[23:27:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly died from hypothermia
+[23:27:41] [Thread-265/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 48508611-5ac5-3287-a37b-baccee41d47d.
+[23:27:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
