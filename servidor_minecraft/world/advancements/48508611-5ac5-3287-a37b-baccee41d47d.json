@@ -778,6 +778,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2024-12-01 23:32:21 +0000",
+      "vindicator": "2024-12-04 23:28:29 +0000",
       "skeleton": "2024-12-01 05:02:27 +0000",
       "husk": "2024-12-03 01:51:16 +0000",
       "zombie": "2024-12-01 04:25:23 +0000",

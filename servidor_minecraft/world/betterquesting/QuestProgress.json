@@ -3849,10 +3849,27 @@
     },
     "207:10": {
       "questID:3": 207,
-      "completed:9": {},
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "uuid:8": "48508611-5ac5-3287-a37b-baccee41d47d",
+          "timestamp:4": 1733355385710
+        },
+        "1:10": {
+          "claimed:1": 0,
+          "uuid:8": "b8ccce96-c699-316b-86ea-02864658d0f4",
+          "timestamp:4": 1733355395683
+        }
+      },
       "tasks:9": {
         "0:10": {
-          "completeUsers:9": {},
+          "completeUsers:9": {
+            "0:8": "8109f115-183c-346b-8675-ea081012d002",
+            "1:8": "b8ccce96-c699-316b-86ea-02864658d0f4",
+            "2:8": "d7b548a9-f0a1-34e9-9688-c1616d727bd6",
+            "3:8": "2c856722-2f94-34cb-8a3e-5d500eff9134",
+            "4:8": "48508611-5ac5-3287-a37b-baccee41d47d"
+          },
           "index:3": 0,
           "taskID:8": "bq_msi:location"
         }
