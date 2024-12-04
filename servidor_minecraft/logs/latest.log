@@ -3824,3 +3824,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:04:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to Brick_123]
 [22:04:19] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
 [22:06:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported Brick_123 to TitoWilly]
+[22:09:18] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player Brick_123)
