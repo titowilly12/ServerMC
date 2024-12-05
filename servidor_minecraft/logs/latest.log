@@ -4067,3 +4067,80 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:31:33] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [06:31:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
 [06:31:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:32:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:32:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:32:57] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:33:16] [Server thread/INFO] [antiqueatlas]: Created new marker #25"gui.antiqueatlas.marker.tomb fandangolol"@(-1084, -3908)
+[06:33:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Wraamon  Lvl 3
+[06:33:19] [Thread-147/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for d7b548a9-f0a1-34e9-9688-c1616d727bd6.
+[06:33:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1085.5, 50.5, -3908.5]
+[06:33:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:33:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:33:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Wraamon  Lvl 3
+[06:33:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1085.5, 50.5, -3908.5]
+[06:33:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[06:33:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[06:33:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:33:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:33:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Darkling  Lvl 3
+[06:33:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:33:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:33:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity lycanitesmobs:roc but it was marked as removed already
+[06:33:56] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:cephignis that already exists with UUID 5c011cb2-c689-4638-87dc-c40afcfa2f14
+[06:33:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1088.5, 51.5, -3909.5]
+[06:33:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:33:59] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:34:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Enderman
+[06:34:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1086.5, 50.5, -3907.5]
+[06:34:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:34:12] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1019.5, 67.5, -4417.5]
+[06:35:34] [Server thread/INFO] [antiqueatlas]: Created new marker #26"gui.antiqueatlas.marker.tomb fandangolol"@(-1104, -3931)
+[06:35:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Russet Darkling  Lvl 3
+[06:35:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1104.5, 50.5, -3930.5]
+[06:35:55] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:36:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[06:36:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:36:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:36:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:36:52] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:37:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:37:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:37:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:37:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:37:20] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:37:30] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:37:32] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:37:35] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:37:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol has made the advancement [Take Aim]
+[06:37:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:37:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:39:16] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:39:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:39:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:39:54] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:40:09] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[06:40:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to TitoWilly]
+[06:44:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly has completed the challenge [Genetic Engineering]
+[06:46:28] [Server thread/INFO] [antiqueatlas]: Created new marker #97"gui.antiqueatlas.marker.tomb TitoWilly"@(-1141, -4630)
+[06:46:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly died to water while wearing an Ender Queen's Crown
+[06:46:32] [Thread-170/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 48508611-5ac5-3287-a37b-baccee41d47d.
+[06:46:32] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:cephignis that already exists with UUID 5c011cb2-c689-4638-87dc-c40afcfa2f14
+[06:46:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[06:46:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1140.5, 68.5, -4630.5]
+[06:46:48] [Server thread/INFO] [Scaling Health]: Blight Cryptkeeper  Lvl 4 has died
+[06:46:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Eyewig  Lvl 3
+[06:47:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[06:47:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Eyewig  Lvl 3
+[06:47:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[06:48:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[06:50:41] [Server thread/INFO] [antiqueatlas]: Created new marker #98"gui.antiqueatlas.marker.tomb TitoWilly"@(-1155, -4634)
+[06:50:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly experienced kinetic energy
+[06:50:44] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:cephignis that already exists with UUID 5c011cb2-c689-4638-87dc-c40afcfa2f14
+[06:50:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[06:51:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[06:51:45] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:cephignis that already exists with UUID 5c011cb2-c689-4638-87dc-c40afcfa2f14
+[06:52:13] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: Cinderfall In Dimension: 0 Duration: 60secs
+[06:52:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:cephignis that already exists with UUID 5c011cb2-c689-4638-87dc-c40afcfa2f14
+[06:52:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1019.5, 67.5, -4417.5]
+[06:52:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:cephignis that already exists with UUID 5c011cb2-c689-4638-87dc-c40afcfa2f14

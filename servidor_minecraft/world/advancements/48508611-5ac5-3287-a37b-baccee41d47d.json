@@ -576,6 +576,12 @@
     },
     "done": true
   },
+  "defiledlands:main/book_wyrm_breed_max_level": {
+    "criteria": {
+      "breed_book_wyrm": "2024-12-05 06:44:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2024-12-04 23:57:29 +0000"
@@ -669,6 +675,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-12-05 03:10:02 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/sandstone_defiled": {
+    "criteria": {
+      "has_material": "2024-12-05 06:51:10 +0000"
     },
     "done": true
   },
