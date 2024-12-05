@@ -3797,3 +3797,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [20:32:04] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
 [20:32:04] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
 [20:32:05] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[20:33:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> que rico
+[20:34:10] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[20:34:10] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[20:34:10] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[20:34:10] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[20:34:10] [Server thread/INFO] [Meson ASM]: Patch result: true
+[20:34:43] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player TitoWilly)
+[20:35:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> ya puedo encantar :D
+[20:37:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> se buguean los marcos de este lado cuando se cierra el server
+[20:38:16] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[20:38:16] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (14 tiles)
+[20:38:16] [Server thread/INFO] [antiqueatlas]: Sent Atlas #1 data to player fandangolol
+[20:38:16] [Server thread/INFO] [antiqueatlas]: Sent markers data #1 to player fandangolol
+[20:38:35] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT

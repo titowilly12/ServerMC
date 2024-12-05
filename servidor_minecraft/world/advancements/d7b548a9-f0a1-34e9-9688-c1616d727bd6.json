@@ -1981,6 +1981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-05 20:32:44 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/armor/umbrium_chestplate": {
     "criteria": {
       "has_material": "2024-12-05 07:17:32 +0000"
