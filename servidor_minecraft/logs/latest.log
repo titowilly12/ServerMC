@@ -4258,3 +4258,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:28:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> ahora los subo
 [22:34:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> este es bueno??
 [22:34:34] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: Boulderdash In Dimension: 0 Duration: 60secs
+[22:35:34] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Finished: Boulderdash
+[22:38:47] [Server thread/INFO] [antiqueatlas]: Created new marker #45"gui.antiqueatlas.marker.tomb fandangolol"@(-1018, -4447)
+[22:38:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Volcan  Lvl 9
+[22:38:49] [Thread-253/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for d7b548a9-f0a1-34e9-9688-c1616d727bd6.
+[22:38:50] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:39:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Volcan  Lvl 9
+[22:39:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Volcan  Lvl 9
+[22:39:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Ventoraptor  Lvl 3
+[22:42:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly lost connection: Disconnected
+[22:42:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly left the game
+[22:42:53] [Server thread/INFO] [antiqueatlas]: Created new marker #46"gui.antiqueatlas.marker.tomb fandangolol"@(-1060, -4444)
+[22:42:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Morock  Lvl 3
+[22:43:20] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:45:02] [Server thread/INFO] [antiqueatlas]: Created new marker #47"gui.antiqueatlas.marker.tomb fandangolol"@(-1057, -4437)
+[22:45:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Morock  Lvl 3
+[22:45:35] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[22:45:38] [Server thread/INFO] [antiqueatlas]: Created new marker #48"gui.antiqueatlas.marker.tomb fandangolol"@(-1057, -4436)
+[22:45:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Morock  Lvl 3
