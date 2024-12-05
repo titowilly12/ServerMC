@@ -4223,3 +4223,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Killed TitoWilly]
 [22:14:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
 [22:15:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> tengo el brazo rotp
+[22:15:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> abrime
+[22:16:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> abrime
+[22:16:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[22:16:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> cerra
+[22:16:20] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@74231642
+[22:16:21] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@74231642
+[22:16:22] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@74231642
+[22:16:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> salgamonos de la dungeon y entramos rush
+[22:16:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> tepeese
+[22:17:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> para??
+[22:17:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> para que desaparezcan los bichos
+[22:17:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to TitoWilly]
+[22:17:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> yo voy y destruyo spawners
+[22:18:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> mi cuerpotio TnT
+[22:18:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> para que desaparezcan los bichos
+[22:18:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> cerra
+[22:18:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly drowned whilst trying to escape Argus  Lvl 2
+[22:18:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> hay que alejarnos mas
+[22:18:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> ya tengo mi cuerpo falta la mochila
+[22:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[22:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> tpeese
+[22:20:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to TitoWilly]
+[22:20:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1455.5, 45.5, -3560.5]
+[22:23:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to TitoWilly]
+[22:23:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1436.5, 45.5, -3545.5]
+[22:24:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> zona despejada
+[22:24:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> si quiere venga
+[22:25:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to TitoWilly]
+[22:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1019.5, 67.5, -4417.5]
+[22:27:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to TitoWilly]
+[22:28:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> pipipi
+[22:28:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> me faltan 4 lvls de magia
+[22:28:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> ahora los subo
+[22:34:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> este es bueno??
+[22:34:34] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Started: Boulderdash In Dimension: 0 Duration: 60secs
