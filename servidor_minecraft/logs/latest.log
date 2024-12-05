@@ -4199,3 +4199,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [07:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Tremor  Lvl 3
 [07:11:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was incinerated by a dragon
 [07:11:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1340.5, 64.5, -4564.5]
+[07:13:02] [Server thread/INFO] [antiqueatlas]: Created new marker #103"gui.antiqueatlas.marker.tomb TitoWilly"@(-1345, -4560)
+[07:13:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was incinerated by a dragon
+[07:13:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1345.5, 67.5, -4560.5]
+[07:13:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:13:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[07:16:28] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:joust that already exists with UUID f8d60b43-1b16-41e6-90f2-13416a527ee7
+[07:16:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 5b3677f4-1227-4a7a-bb1a-5a64b936fd46
+[07:16:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 487f3b00-17c5-4042-ac9e-5ce255aa3fbd
+[07:16:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:joust that already exists with UUID f8d60b43-1b16-41e6-90f2-13416a527ee7
+[07:16:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 5b3677f4-1227-4a7a-bb1a-5a64b936fd46
+[07:16:58] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 487f3b00-17c5-4042-ac9e-5ce255aa3fbd
+[07:17:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol has made the advancement [Deep Purple]
+[07:17:42] [Server thread/INFO] [antiqueatlas]: Created new marker #104"gui.antiqueatlas.marker.tomb TitoWilly"@(-1352, -4562)
+[07:17:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was turned into KFC by a dragon
+[07:17:44] [Thread-228/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 48508611-5ac5-3287-a37b-baccee41d47d.
+[07:17:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1354.5, 66.5, -4562.5]
+[07:18:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[07:19:42] [Server thread/INFO] [antiqueatlas]: Created new marker #105"gui.antiqueatlas.marker.tomb TitoWilly"@(-1115, -4474)
+[07:19:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was burnt to a crisp whilst fighting Host
+[07:19:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[07:20:06] [Server thread/INFO] [antiqueatlas]: Created new marker #106"gui.antiqueatlas.marker.tomb TitoWilly"@(-1114, -4474)
+[07:20:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Defiled Slime
+[07:20:09] [Server thread/INFO] [antiqueatlas]: Created new marker #29"gui.antiqueatlas.marker.tomb fandangolol"@(-1114, -4474)
+[07:20:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Host
+[07:20:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[07:20:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Defiled Slime
+[07:20:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:20:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:20:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1119.5, 64.5, -4469.5]
+[07:20:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1114.5, 63.5, -4474.5]
+[07:20:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Host
+[07:21:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[07:22:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1019.5, 67.5, -4417.5]

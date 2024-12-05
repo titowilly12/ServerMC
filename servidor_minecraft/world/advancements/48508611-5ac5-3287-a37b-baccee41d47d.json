@@ -1102,6 +1102,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/decoration/stone_defiled_slab_bricks": {
+    "criteria": {
+      "has_material": "2024-12-05 07:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2024-12-02 02:58:24 +0000"
@@ -1321,6 +1327,12 @@
   "minecraft:recipes/decorations/lime_banner": {
     "criteria": {
       "has_lime_wool": "2024-12-03 05:30:17 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_slab_bricks_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-05 07:19:01 +0000"
     },
     "done": true
   },
@@ -2001,6 +2013,12 @@
   "mujmajnkraftsbettersurvival:diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2024-12-02 02:07:49 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/decoration/stone_defiled_bricks_stairs_uncraft": {
+    "criteria": {
+      "has_material": "2024-12-05 07:19:01 +0000"
     },
     "done": true
   },
