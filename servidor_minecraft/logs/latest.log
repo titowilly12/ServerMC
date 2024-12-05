@@ -4160,3 +4160,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [07:00:12] [Server thread/INFO] [antiqueatlas]: Created new marker #101"gui.antiqueatlas.marker.tomb TitoWilly"@(-1042, -4397)
 [07:00:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly drowned
 [07:00:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:02:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -8.537570691811652,0.0,-5.362448405900068
+[07:02:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -9.249851012871432,0.0,-5.816150986239336
+[07:03:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:joust that already exists with UUID f8d60b43-1b16-41e6-90f2-13416a527ee7
+[07:03:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 5b3677f4-1227-4a7a-bb1a-5a64b936fd46
+[07:03:02] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 487f3b00-17c5-4042-ac9e-5ce255aa3fbd
+[07:03:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 5b3677f4-1227-4a7a-bb1a-5a64b936fd46
+[07:03:29] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 487f3b00-17c5-4042-ac9e-5ce255aa3fbd
+[07:06:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:joust that already exists with UUID f8d60b43-1b16-41e6-90f2-13416a527ee7
+[07:06:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 5b3677f4-1227-4a7a-bb1a-5a64b936fd46
+[07:06:01] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 487f3b00-17c5-4042-ac9e-5ce255aa3fbd
+[07:06:18] [Server thread/INFO] [antiqueatlas]: Created new marker #28"gui.antiqueatlas.marker.tomb fandangolol"@(-1010, -4405)
+[07:06:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Zombie
+[07:06:20] [Thread-206/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for d7b548a9-f0a1-34e9-9688-c1616d727bd6.
+[07:06:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:joust that already exists with UUID f8d60b43-1b16-41e6-90f2-13416a527ee7
+[07:06:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 5b3677f4-1227-4a7a-bb1a-5a64b936fd46
+[07:06:39] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 487f3b00-17c5-4042-ac9e-5ce255aa3fbd
+[07:06:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:07:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:joust that already exists with UUID f8d60b43-1b16-41e6-90f2-13416a527ee7
+[07:07:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 5b3677f4-1227-4a7a-bb1a-5a64b936fd46
+[07:07:06] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 487f3b00-17c5-4042-ac9e-5ce255aa3fbd
+[07:07:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[07:07:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[07:07:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[07:07:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[07:07:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[07:07:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[07:07:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[07:07:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[07:07:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[07:07:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[07:07:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Zombie
+[07:08:29] [Server thread/INFO] [antiqueatlas]: Created new marker #102"gui.antiqueatlas.marker.tomb TitoWilly"@(-1344, -4551)
+[07:08:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was incinerated by a dragon
+[07:08:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to TitoWilly]
+[07:09:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[07:09:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1345.5, 73.5, -4552.5]
+[07:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Tremor  Lvl 3
+[07:11:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was incinerated by a dragon
+[07:11:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1340.5, 64.5, -4564.5]
