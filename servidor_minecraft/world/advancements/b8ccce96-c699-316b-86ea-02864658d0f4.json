@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2024-12-05 00:52:11 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/misc/foul_candy": {
     "criteria": {
       "has_material": "2024-12-02 03:17:25 +0000"
@@ -326,6 +332,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 05:17:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-05 01:01:55 +0000"
     },
     "done": true
   },
@@ -352,8 +364,10 @@
       "cooked_porkchop": "2024-12-01 23:59:58 +0000",
       "cooked_mutton": "2024-12-01 05:06:48 +0000",
       "cooked_beef": "2024-12-02 00:11:25 +0000",
+      "beef": "2024-12-04 23:52:05 +0000",
       "porkchop": "2024-12-01 05:23:02 +0000",
       "apple": "2024-12-03 01:05:46 +0000",
+      "rabbit": "2024-12-04 23:50:19 +0000",
       "bread": "2024-12-02 01:26:47 +0000",
       "golden_apple": "2024-12-03 01:21:01 +0000",
       "rotten_flesh": "2024-12-03 01:26:53 +0000",
@@ -572,6 +586,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2024-12-05 00:52:11 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/decoration/stone_defiled_slab_stone_uncraft": {
     "criteria": {
       "has_material": "2024-12-02 03:04:14 +0000"
@@ -623,6 +643,12 @@
   "spartanweaponry:root": {
     "criteria": {
       "handle_in_inventory": "2024-12-03 04:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2024-12-05 00:54:18 +0000"
     },
     "done": true
   },
@@ -902,13 +928,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-05 01:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2024-12-02 01:34:30 +0000",
       "skeleton": "2024-12-01 05:01:07 +0000",
       "husk": "2024-12-02 03:00:37 +0000",
+      "blaze": "2024-12-05 01:10:44 +0000",
       "cave_spider": "2024-12-02 00:33:14 +0000",
       "zombie": "2024-12-02 00:00:06 +0000",
+      "silverfish": "2024-12-05 00:55:39 +0000",
       "witch": "2024-12-03 04:42:11 +0000",
       "spider": "2024-12-01 05:10:24 +0000",
       "creeper": "2024-12-02 01:33:43 +0000",
@@ -1135,6 +1169,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2024-12-02 21:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-05 01:10:54 +0000"
     },
     "done": true
   },
@@ -1384,6 +1424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2024-12-05 01:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-02 00:11:53 +0000"
@@ -1576,6 +1622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-05 01:10:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2024-12-02 00:29:00 +0000"
@@ -1636,6 +1688,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-05 01:10:54 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:diamond_spear": {
     "criteria": {
       "has_diamond": "2024-12-02 21:56:35 +0000"
@@ -1671,7 +1729,10 @@
       "savanna": "2024-12-01 04:45:11 +0000",
       "plains": "2024-12-01 04:42:19 +0000",
       "savanna_rock": "2024-12-02 03:04:42 +0000",
+      "taiga": "2024-12-05 00:07:54 +0000",
+      "taiga_hills": "2024-12-05 00:10:18 +0000",
       "ocean": "2024-12-01 05:02:10 +0000",
+      "extreme_hills": "2024-12-04 23:57:48 +0000",
       "roofed_forest": "2024-12-01 04:50:36 +0000",
       "river": "2024-12-01 04:44:05 +0000",
       "desert": "2024-12-02 02:49:32 +0000"
@@ -1879,6 +1940,12 @@
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2024-12-01 04:52:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2024-12-05 00:54:18 +0000"
     },
     "done": true
   },
