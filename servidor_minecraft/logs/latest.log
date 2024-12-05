@@ -4144,3 +4144,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [06:52:17] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:cephignis that already exists with UUID 5c011cb2-c689-4638-87dc-c40afcfa2f14
 [06:52:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1019.5, 67.5, -4417.5]
 [06:52:25] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:cephignis that already exists with UUID 5c011cb2-c689-4638-87dc-c40afcfa2f14
+[06:52:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported fandangolol to TitoWilly]
+[06:53:13] [Server thread/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Mob Event Finished: Cinderfall
+[06:55:11] [Server thread/INFO] [antiqueatlas]: Created new marker #99"gui.antiqueatlas.marker.tomb TitoWilly"@(-1024, -4417)
+[06:55:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was burnt to a crisp whilst fighting Verdant Cinder  Lvl 6
+[06:55:11] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: fandangolol moved wrongly!
+[06:55:36] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[06:56:03] [Server thread/INFO] [antiqueatlas]: Created new marker #100"gui.antiqueatlas.marker.tomb TitoWilly"@(-1035, -4419)
+[06:56:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was slain by Grue  Lvl 110
+[06:56:21] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[06:56:34] [Server thread/INFO] [antiqueatlas]: Created new marker #27"gui.antiqueatlas.marker.tomb fandangolol"@(-1021, -4417)
+[06:56:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was pummeled by Azure Cinder  Lvl 3
+[06:57:06] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[06:57:37] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity lycanitesmobs:roc but it was marked as removed already
+[07:00:12] [Server thread/INFO] [antiqueatlas]: Created new marker #101"gui.antiqueatlas.marker.tomb TitoWilly"@(-1042, -4397)
+[07:00:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly drowned
+[07:00:51] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
