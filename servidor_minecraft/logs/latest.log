@@ -3759,3 +3759,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [19:04:04] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
 [19:20:50] [Server thread/INFO] [RLTweakerASM]: Patch exists for net.minecraftforge.items.VanillaInventoryCodeHooks
 [19:20:50] [Server thread/INFO] [RLTweakerASM]: Writing class net.minecraftforge.items.VanillaInventoryCodeHooks with flags MAXS
+[19:34:03] [Server thread/INFO] [Meson ASM]: Transforming ISpecialArmor
+[19:34:03] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [applyArmor, applyArmor, ] Descriptor (Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/util/NonNullList;Lnet/minecraft/util/DamageSource;D)F / (Lvp;Lfi;Lur;D)F)
+[19:34:03] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[19:34:03] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
+[19:34:03] [Server thread/INFO] [Meson ASM]: Patch result: true
