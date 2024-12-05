@@ -674,6 +674,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/material/remorseful_gem": {
+    "criteria": {
+      "has_material": "2024-12-05 20:44:36 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/gold_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2024-12-02 01:49:00 +0000"
@@ -1555,6 +1561,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/tears_shulker": {
+    "criteria": {
+      "has_material": "2024-12-05 20:44:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 02:42:27 +0000"
@@ -1894,6 +1906,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 02:42:27 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/tears_flame": {
+    "criteria": {
+      "has_material": "2024-12-05 20:44:36 +0000"
     },
     "done": true
   },

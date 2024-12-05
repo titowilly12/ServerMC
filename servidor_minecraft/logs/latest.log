@@ -3811,3 +3811,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [20:38:16] [Server thread/INFO] [antiqueatlas]: Sent Atlas #1 data to player fandangolol
 [20:38:16] [Server thread/INFO] [antiqueatlas]: Sent markers data #1 to player fandangolol
 [20:38:35] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:45:33] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[20:45:33] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (96 tiles)
+[20:45:33] [Server thread/INFO] [antiqueatlas]: Sent Atlas #2 data to player fandangolol
+[20:45:33] [Server thread/INFO] [antiqueatlas]: Sent markers data #2 to player fandangolol
+[20:46:05] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[20:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> los maka son los dinosaurios verdes??
+[20:47:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> no se
+[20:48:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> :/
+[20:48:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> no se pueden poner marcos
+[20:48:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> despues es molesto abrir los cofres
+[20:49:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> ya estan ordenados los cofres otra vez
