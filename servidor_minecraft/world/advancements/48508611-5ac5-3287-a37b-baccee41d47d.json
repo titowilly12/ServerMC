@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2024-12-05 07:51:51 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_spear": {
     "criteria": {
       "has_stone": "2024-12-01 04:44:25 +0000"
