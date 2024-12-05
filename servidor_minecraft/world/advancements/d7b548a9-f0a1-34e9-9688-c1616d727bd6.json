@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2024-12-05 19:11:09 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/misc/foul_candy": {
     "criteria": {
       "has_material": "2024-12-03 04:02:11 +0000"
@@ -606,6 +612,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-12-03 04:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2024-12-05 19:11:09 +0000"
     },
     "done": true
   },
