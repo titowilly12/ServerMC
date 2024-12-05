@@ -4182,3 +4182,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:04:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Shade  Lvl 2
 [22:04:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> zzz
 [22:04:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1434.5, 45.5, -3547.5]
+[22:05:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[22:06:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Chupacabra  Lvl 2
+[22:06:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1430.5, 45.5, -3548.5]
+[22:06:06] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:06:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Grue  Lvl 2
+[22:06:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1430.5, 45.5, -3544.5]
+[22:06:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:06:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Grue  Lvl 2
+[22:06:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1436.5, 45.5, -3542.5]
+[22:07:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Violet Gnekk  Lvl 2
+[22:08:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1434.5, 45.5, -3546.5]
+[22:08:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[22:08:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Gnekk  Lvl 2
+[22:08:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1430.5, 45.5, -3544.5]
+[22:09:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[22:10:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> esta dungeon no creo que la podamos hacer ahora
+[22:10:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> mejor retirada estrategica
+[22:10:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> mis cosas :c
+[22:10:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> pasame un piuco
+[22:10:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> y tapa
+[22:11:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Scarlet Argus  Lvl 2
+[22:11:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1432.5, 45.5, -3546.5]
+[22:11:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1019.5, 67.5, -4417.5]
+[22:12:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly fell out of the world
+[22:12:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Killed TitoWilly]
+[22:12:30] [Thread-212/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 48508611-5ac5-3287-a37b-baccee41d47d.
+[22:12:30] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity lycanitesmobs:roc but it was marked as removed already
+[22:12:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1035.5, 40.5, -4447.5]
+[22:12:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[22:13:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Chupacabra  Lvl 2
+[22:13:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -1433.5, 43.5, -3552.5]
+[22:13:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> donde estan sus cosas?
+[22:14:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly drowned whilst trying to escape Shade  Lvl 2
+[22:14:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> bajo el agua :C
+[22:14:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1458.5, 45.5, -3562.5]
+[22:14:17] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:14:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[22:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly was killed by magic
+[22:14:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Killed TitoWilly]
+[22:14:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to fandangolol]
+[22:15:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> tengo el brazo rotp
