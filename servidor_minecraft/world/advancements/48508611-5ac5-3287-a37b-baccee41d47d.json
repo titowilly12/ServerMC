@@ -2018,6 +2018,12 @@
     },
     "done": true
   },
+  "defiledlands:main/book_wyrm_breed_perfect": {
+    "criteria": {
+      "breed_book_wyrm": "2024-12-05 20:06:17 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2024-12-02 02:07:49 +0000"
