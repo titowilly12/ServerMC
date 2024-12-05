@@ -4306,3 +4306,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:55:48] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player TitoWilly
 [22:55:48] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player TitoWilly
 [22:55:48] [Server thread/INFO] [XAT]: Syncing Config to TitoWilly
+[22:58:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> zzz
+[22:58:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to TitoWilly]
+[22:58:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> XD
+[23:00:20] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -1912 | -2136 ], underground: true
+[23:00:31] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:00:31] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
