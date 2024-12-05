@@ -411,7 +411,8 @@
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
       "desert_defiled": "2024-12-02 02:39:59 +0000",
-      "ice_plains_defiled": "2024-12-02 02:32:41 +0000"
+      "ice_plains_defiled": "2024-12-02 02:32:41 +0000",
+      "plains_defiled": "2024-12-05 02:14:21 +0000"
     },
     "done": false
   },

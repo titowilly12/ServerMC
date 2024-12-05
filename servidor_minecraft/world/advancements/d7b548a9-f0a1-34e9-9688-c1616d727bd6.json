@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/scale_chestplate": {
+    "criteria": {
+      "has_material": "2024-12-05 02:17:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-02 22:37:42 +0000"
@@ -350,6 +356,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-12-02 22:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-05 02:14:00 +0000"
     },
     "done": true
   },
@@ -595,6 +607,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-02 04:38:10 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_boots": {
+    "criteria": {
+      "has_material": "2024-12-05 02:17:42 +0000"
     },
     "done": true
   },
@@ -985,6 +1003,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2024-12-02 22:37:34 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/armor/scale_helmet": {
+    "criteria": {
+      "has_material": "2024-12-05 02:17:42 +0000"
     },
     "done": true
   },
@@ -1534,6 +1558,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/armor/scale_leggings": {
+    "criteria": {
+      "has_material": "2024-12-05 02:17:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_orange_wool": "2024-12-03 04:40:11 +0000"
@@ -1737,6 +1767,7 @@
       "plains": "2024-12-01 23:26:43 +0000",
       "savanna": "2024-12-02 03:00:26 +0000",
       "savanna_rock": "2024-12-02 03:00:39 +0000",
+      "taiga": "2024-12-05 02:14:38 +0000",
       "ocean": "2024-12-01 23:42:43 +0000",
       "river": "2024-12-01 23:56:45 +0000",
       "desert": "2024-12-02 02:59:53 +0000"
