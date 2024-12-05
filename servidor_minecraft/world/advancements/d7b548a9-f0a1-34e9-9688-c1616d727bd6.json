@@ -558,6 +558,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "stray": "2024-12-05 19:47:39 +0000",
       "zombie_villager": "2024-12-05 03:09:05 +0000",
       "skeleton": "2024-12-02 01:01:20 +0000",
       "husk": "2024-12-02 04:38:57 +0000",
