@@ -312,9 +312,10 @@
       "shambler_twisted": "2024-12-05 09:01:11 +0000",
       "scuttler": "2024-12-05 04:36:59 +0000",
       "slime_defiled": "2024-12-05 04:26:23 +0000",
-      "host": "2024-12-05 04:26:25 +0000"
+      "host": "2024-12-05 04:26:25 +0000",
+      "shambler": "2024-12-05 20:29:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
