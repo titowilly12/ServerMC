@@ -3764,3 +3764,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [19:34:03] [Server thread/INFO] [Meson ASM]: Located method, patching...
 [19:34:03] [Server thread/INFO] [Meson ASM]: Located target ALOAD 1
 [19:34:03] [Server thread/INFO] [Meson ASM]: Patch result: true
+[19:39:28] [Server thread/INFO] [antiqueatlas]: Created new marker #38"gui.antiqueatlas.marker.tomb fandangolol"@(-516, -4976)
+[19:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol died from hyperthermia
+[19:39:30] [Thread-92/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for d7b548a9-f0a1-34e9-9688-c1616d727bd6.
+[19:39:38] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[19:45:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to -516.5, 63.5, -4976.5]
