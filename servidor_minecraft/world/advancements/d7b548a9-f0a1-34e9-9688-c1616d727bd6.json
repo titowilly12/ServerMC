@@ -1016,6 +1016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-05 06:18:27 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:crossbow": {
     "criteria": {
       "has_string": "2024-12-01 23:37:50 +0000"
@@ -1103,6 +1109,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-02 00:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-05 06:18:27 +0000"
     },
     "done": true
   },
@@ -2027,6 +2039,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 02:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2024-12-05 06:18:27 +0000"
     },
     "done": true
   },
