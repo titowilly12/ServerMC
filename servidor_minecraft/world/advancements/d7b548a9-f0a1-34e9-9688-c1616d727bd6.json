@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_red_flower": "2024-12-05 21:54:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-02 03:03:39 +0000"
@@ -1080,6 +1086,7 @@
     "criteria": {
       "forest": "2024-12-02 00:23:25 +0000",
       "birch_forest": "2024-12-01 23:56:48 +0000",
+      "swampland": "2024-12-05 21:50:56 +0000",
       "deep_ocean": "2024-12-01 23:24:47 +0000",
       "beaches": "2024-12-01 23:39:31 +0000",
       "desert_hills": "2024-12-05 01:49:17 +0000",
@@ -1569,7 +1576,8 @@
       "apple": "2024-12-02 01:45:58 +0000",
       "cooked_cod": "2024-12-02 04:40:36 +0000",
       "pumpkin_pie": "2024-12-05 08:53:39 +0000",
-      "bread": "2024-12-02 01:34:18 +0000"
+      "bread": "2024-12-02 01:34:18 +0000",
+      "mushroom_stew": "2024-12-05 21:37:04 +0000"
     },
     "done": false
   },

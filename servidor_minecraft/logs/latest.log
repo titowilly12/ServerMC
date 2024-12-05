@@ -3967,3 +3967,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:33:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <INTENCITIES> xd
 [21:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <INTENCITIES> no se
 [21:34:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to INTENCITIES]
+[21:36:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> me puedo hacer un corazon?? c:
+[21:36:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <INTENCITIES> wtf
+[21:36:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <INTENCITIES> esta mierda
+[21:36:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> si
+[21:36:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <INTENCITIES> mete veneno
+[21:36:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <INTENCITIES> tito
+[21:36:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <INTENCITIES> esto es pa
+[21:36:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <INTENCITIES> pa q
+[21:36:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> q
+[21:36:50] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player fandangolol)
+[21:36:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <TitoWilly> cosas
+[21:37:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <INTENCITIES> estp
+[21:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <INTENCITIES> te lo tire webon
+[21:38:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <INTENCITIES> wtf
+[21:40:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: INTENCITIES was slain by Geonach  Lvl 4
+[21:40:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> ese es con el pico
+[21:43:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fandangolol> ten tito
+[21:45:40] [Server thread/INFO] [antiqueatlas]: Created new marker #43"gui.antiqueatlas.marker.tomb fandangolol"@(-1034, -4412)
+[21:45:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fandangolol was slain by Darkling  Lvl 4
+[21:45:43] [Thread-166/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for d7b548a9-f0a1-34e9-9688-c1616d727bd6.
+[21:46:05] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[21:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <INTENCITIES> y esta mochila?
+[21:48:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [TitoWilly: Teleported TitoWilly to -1305.5, 75.5, -3553.5]
+[21:48:08] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity lycanitesmobs:roc but it was marked as removed already
+[21:48:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: INTENCITIES lost connection: Disconnected
+[21:48:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: INTENCITIES left the game
+[21:49:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TitoWilly has made the advancement [Spooky Scary Skeleton]
+[21:50:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fandangolol: Teleported fandangolol to TitoWilly]
+[21:52:46] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2516ms behind, skipping 50 tick(s)
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -10.631993503838203,0.0,0.4938611936004236
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -11.431765221272599,0.0,0.5603032490957958
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -12.21669515445069,0.0,0.6795250423560901
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -12.988534634261441,0.0,0.8452985630920011
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -13.74882833450829,0.0,1.052130706373191
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -14.498938657449344,0.0,1.2951765537804931
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -15.2400672418446,0.0,1.570162887380775
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -15.973273933052496,0.0,1.8733207290565588
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -16.699493514654023,0.0,2.2013258401971143
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -17.41955046574617,0.0,2.551246242424895
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -18.13417197687295,0.0,2.9204959308799516
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -18.843999430077247,0.0,3.306794049335167
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -9.734204158139619,0.0,3.22086877044012
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -10.436073839850678,0.0,3.635465985914834
+[21:54:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 (vehicle of TitoWilly) moved too quickly! -11.134654179808422,0.0,4.061760622142174
