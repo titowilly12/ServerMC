@@ -3734,3 +3734,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:52:27] [Server thread/INFO] [Meson ASM]: Patch result: true
 [21:59:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was pummeled by Jengu  Lvl 4
 [21:59:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -970.5, 7.5, -4294.5]
+[22:07:30] [Server thread/INFO] [AIReducer]: Caching Wrapped Task Constructor: com.charles445.aireducer.routine.IAFOldDeathWormRoutine$WrappedProximityTaskOldDeathWorm
+[22:08:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Keppel Geonach  Lvl 4
+[22:08:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -909.5, 25.5, -4386.5]
+[22:09:24] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[22:09:24] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[22:09:24] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[22:09:24] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[22:09:24] [Server thread/INFO] [Meson ASM]: Patch result: true
+[22:11:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was pummeled by Argus  Lvl 4
+[22:11:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -904.5, 25.5, -4384.5]
+[22:14:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Brick_123 was slain by Lux Spectre  Lvl 4
+[22:14:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -869.5, 6.5, -4273.5]
+[22:17:48] [Server thread/INFO] [RB-Transformer]: Injecting into pw.prok.realbench.WorkbenchInventory (pw.prok.realbench.WorkbenchInventory)
+[22:17:48] [Server thread/INFO] [RB-Transformer]:  - <init>
+[22:17:48] [Server thread/INFO] [RB-Transformer]:  - Done
+[22:17:48] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
+[22:17:48] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
+[22:17:48] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[22:19:06] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[22:19:06] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (96 tiles)
+[22:19:06] [Server thread/INFO] [antiqueatlas]: Sent Atlas #2 data to player Brick_123
+[22:19:06] [Server thread/INFO] [antiqueatlas]: Sent markers data #2 to player Brick_123
+[22:19:28] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
