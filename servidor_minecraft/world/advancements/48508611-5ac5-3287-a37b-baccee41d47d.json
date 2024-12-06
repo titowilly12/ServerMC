@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2024-12-06 23:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:16:48 +0000"
@@ -260,6 +266,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2024-12-03 01:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-06 23:17:18 +0000"
     },
     "done": true
   },
@@ -539,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2024-12-06 23:17:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "wither_skeleton": "2024-12-05 05:28:17 +0000",
@@ -550,6 +568,7 @@
       "cave_spider": "2024-12-02 00:31:39 +0000",
       "witch": "2024-12-05 23:11:03 +0000",
       "spider": "2024-12-01 23:32:12 +0000",
+      "ghast": "2024-12-06 23:23:05 +0000",
       "creeper": "2024-12-01 23:33:00 +0000",
       "enderman": "2024-12-01 23:31:01 +0000"
     },
@@ -1405,6 +1424,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-06 23:17:09 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/decoration/stone_defiled_slab_bricks_uncraft": {
     "criteria": {
       "has_material": "2024-12-05 07:19:01 +0000"
@@ -1918,6 +1943,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-06 23:17:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-01 04:58:01 +0000"
@@ -2416,6 +2447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2024-12-06 23:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2024-12-02 01:39:03 +0000"
@@ -2494,6 +2531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2024-12-06 23:20:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-01 04:58:01 +0000"
@@ -2551,6 +2594,12 @@
   "defiledlands:recipes/baubles/phytoprostasia_amulet": {
     "criteria": {
       "has_material": "2024-12-05 04:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick": {
+    "criteria": {
+      "has_netherbrick": "2024-12-06 23:18:26 +0000"
     },
     "done": true
   },
