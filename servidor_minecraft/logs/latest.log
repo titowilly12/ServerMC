@@ -4028,3 +4028,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:28:53] [Server thread/INFO] [FML]: Unloading dimension -1
 [23:29:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Brick_123> a dormir
 [23:33:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to TitoWilly]
+[23:34:31] [Server thread/INFO] [antiqueatlas]: Sending dimension #0
+[23:34:31] [Server thread/INFO] [antiqueatlas]: Sent dimension #0 (109 tiles)
+[23:34:31] [Server thread/INFO] [antiqueatlas]: Sent Atlas #2 data to player TitoWilly
+[23:34:31] [Server thread/INFO] [antiqueatlas]: Sent markers data #2 to player TitoWilly
+[23:34:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1511.5, 60.5, -3946.5]
+[23:34:41] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:34:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to fandangolol]
+[23:35:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1485.5, 64.5, -4063.5]
+[23:35:26] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:35:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to fandangolol]
+[23:35:33] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved too quickly! -448.3856663255074,21.0,365.80261126407913
+[23:35:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to -1442.5, 64.5, -4008.5]
+[23:36:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 5b3677f4-1227-4a7a-bb1a-5a64b936fd46
+[23:36:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity minecraft:horse that already exists with UUID 487f3b00-17c5-4042-ac9e-5ce255aa3fbd
+[23:36:00] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity lycanitesmobs:joust that already exists with UUID f8d60b43-1b16-41e6-90f2-13416a527ee7
+[23:36:07] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Brick_123 moved too quickly! 2.43107746737428,-1.0,9.788194771687813
+[23:36:07] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2930ms behind, skipping 58 tick(s)
+[23:36:12] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[23:36:14] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player fandangolol)
+[23:36:23] [Server thread/WARN] [Scaling Health]: Another mod seems to have canceled healing from a max health increase (player fandangolol)
+[23:36:47] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@352c772b)
+[23:36:47] [Server thread/INFO] [globalgamerules]: Applying config gamerules to dimension -1 (world)
+[23:36:47] [Server thread/INFO] [globalgamerules]: Setting difficulty of dimension -1 (world) to HARD
+[23:36:47] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 1877
+[23:36:47] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[23:36:48] [Server thread/INFO] [globalgamerules]: Saving gamerules of dimension -1 (world) to config
+[23:36:49] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:38:16] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:38:16] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:38:16] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:38:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[23:38:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[23:38:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[23:38:28] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: TitoWilly's Roc  Lvl 3 moved wrongly!
+[23:38:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to TitoWilly]
+[23:38:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to fandangolol]
+[23:39:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to TitoWilly]
+[23:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to fandangolol]
+[23:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to TitoWilly]
+[23:39:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to fandangolol]
+[23:39:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to TitoWilly]
+[23:40:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Brick_123: Teleported Brick_123 to fandangolol]
+[23:40:00] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:40:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[23:40:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
