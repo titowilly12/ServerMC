@@ -497,12 +497,13 @@
   },
   "defiledlands:main/kill_all_mobs": {
     "criteria": {
+      "shambler_twisted": "2024-12-06 22:43:08 +0000",
       "scuttler": "2024-12-05 04:56:15 +0000",
       "slime_defiled": "2024-12-02 03:17:05 +0000",
       "host": "2024-12-02 03:17:13 +0000",
       "shambler": "2024-12-05 04:21:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
