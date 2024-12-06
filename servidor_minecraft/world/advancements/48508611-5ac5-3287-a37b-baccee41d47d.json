@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-05 23:42:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
       "has_blue_wool": "2024-12-05 00:32:08 +0000"
@@ -212,6 +218,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2024-12-03 01:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2024-12-05 23:23:58 +0000"
     },
     "done": true
   },
@@ -350,6 +362,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2024-12-05 03:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2024-12-05 23:23:58 +0000"
     },
     "done": true
   },
@@ -524,6 +542,7 @@
       "husk": "2024-12-03 01:51:16 +0000",
       "zombie": "2024-12-01 04:25:23 +0000",
       "cave_spider": "2024-12-02 00:31:39 +0000",
+      "witch": "2024-12-05 23:11:03 +0000",
       "spider": "2024-12-01 23:32:12 +0000",
       "creeper": "2024-12-01 23:33:00 +0000",
       "enderman": "2024-12-01 23:31:01 +0000"
@@ -635,6 +654,12 @@
   "defiledlands:recipes/baubles/scarlite_ring": {
     "criteria": {
       "has_material": "2024-12-05 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/material/remorseful_gem": {
+    "criteria": {
+      "has_material": "2024-12-05 23:27:35 +0000"
     },
     "done": true
   },
@@ -854,6 +879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-12-06 00:56:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-03 00:31:44 +0000"
@@ -1059,6 +1090,18 @@
   "defiledlands:recipes/tools/blastem_fruit_blazing": {
     "criteria": {
       "has_material": "2024-12-05 04:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-05 23:11:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:explode_creeper": {
+    "criteria": {
+      "killed_skeleton": "2024-12-05 23:17:43 +0000"
     },
     "done": true
   },
@@ -1515,6 +1558,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/tears_shulker": {
+    "criteria": {
+      "has_material": "2024-12-05 23:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-01 04:58:01 +0000"
@@ -1851,6 +1900,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/tears_flame": {
+    "criteria": {
+      "has_material": "2024-12-05 23:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-01 04:36:10 +0000"
@@ -2076,6 +2131,12 @@
   "mujmajnkraftsbettersurvival:iron_spear": {
     "criteria": {
       "has_iron": "2024-12-01 05:16:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "craft": "2024-12-06 00:01:55 +0000"
     },
     "done": true
   },
