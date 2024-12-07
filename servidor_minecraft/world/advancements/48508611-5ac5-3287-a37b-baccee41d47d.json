@@ -1358,6 +1358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2024-12-06 23:57:26 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/tools/book_wyrm_analyzer": {
     "criteria": {
       "has_the_recipe": "2024-12-05 04:57:02 +0000"
@@ -2342,6 +2348,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-01 05:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2024-12-06 23:57:26 +0000"
     },
     "done": true
   },
