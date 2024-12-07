@@ -356,6 +356,7 @@
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
       "desert_defiled": "2024-12-02 03:22:17 +0000",
+      "hills_defiled": "2024-12-07 22:43:40 +0000",
       "forest_tenebra": "2024-12-02 01:42:11 +0000"
     },
     "done": false
@@ -1164,6 +1165,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "ice_flats": "2024-12-07 22:30:59 +0000",
       "forest": "2024-12-02 00:23:25 +0000",
       "birch_forest": "2024-12-01 23:56:48 +0000",
       "swampland": "2024-12-05 21:50:56 +0000",
@@ -1175,6 +1177,7 @@
       "savanna": "2024-12-02 03:00:26 +0000",
       "savanna_rock": "2024-12-02 03:00:39 +0000",
       "taiga": "2024-12-05 02:14:38 +0000",
+      "birch_forest_hills": "2024-12-07 22:40:12 +0000",
       "ocean": "2024-12-01 23:42:43 +0000",
       "extreme_hills": "2024-12-07 02:29:09 +0000",
       "roofed_forest": "2024-12-05 22:03:20 +0000",
