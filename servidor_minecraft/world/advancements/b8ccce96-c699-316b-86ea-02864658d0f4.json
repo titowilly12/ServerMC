@@ -1389,6 +1389,12 @@
     },
     "done": true
   },
+  "spartanweaponry:upgrade_quiver_max": {
+    "criteria": {
+      "quiver_arrow": "2024-12-07 05:42:19 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:stone_hammer": {
     "criteria": {
       "has_stone": "2024-12-01 04:43:46 +0000"
@@ -2032,6 +2038,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2024-12-01 04:56:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "craft": "2024-12-07 19:04:03 +0000"
     },
     "done": true
   },

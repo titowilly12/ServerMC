@@ -532,6 +532,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-07 06:01:26 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/decoration/stone_defiled_bricks": {
     "criteria": {
       "has_material": "2024-12-02 22:38:28 +0000"
@@ -727,6 +733,12 @@
   "defiledlands:recipes/decoration/stone_defiled_slab_sandstone": {
     "criteria": {
       "has_material": "2024-12-05 04:43:57 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/baubles/scarlite_ring": {
+    "criteria": {
+      "has_material": "2024-12-07 05:55:41 +0000"
     },
     "done": true
   },
@@ -991,6 +1003,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-01 23:37:50 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/calling_stone": {
+    "criteria": {
+      "has_material": "2024-12-07 05:55:41 +0000"
     },
     "done": true
   },
@@ -1330,6 +1348,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-05 19:40:53 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_razor": {
+    "criteria": {
+      "has_material": "2024-12-07 05:55:41 +0000"
     },
     "done": true
   },
@@ -1714,6 +1738,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2024-12-02 01:02:07 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/tools/scarlite_reaver": {
+    "criteria": {
+      "has_material": "2024-12-07 05:55:41 +0000"
     },
     "done": true
   },
@@ -2533,6 +2563,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/concussion_smasher": {
+    "criteria": {
+      "has_material": "2024-12-07 05:55:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2024-12-02 00:47:59 +0000"
@@ -2548,6 +2584,12 @@
   "defiledlands:recipes/tools/umbra_blaster": {
     "criteria": {
       "has_material": "2024-12-05 07:17:32 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/scarlite": {
+    "criteria": {
+      "scarlite": "2024-12-07 05:55:41 +0000"
     },
     "done": true
   },
@@ -2728,6 +2770,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-02 01:58:47 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/healing_pad": {
+    "criteria": {
+      "has_material": "2024-12-07 05:55:41 +0000"
     },
     "done": true
   },
