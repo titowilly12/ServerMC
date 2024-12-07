@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "armorunder:recipes/misc/warm_liner_material": {
+    "criteria": {
+      "has_heating_goo": "2024-12-07 02:42:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:16:48 +0000"
@@ -425,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_brick_block": "2024-12-07 02:34:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 04:36:10 +0000"
@@ -568,6 +580,7 @@
       "zombie": "2024-12-01 04:25:23 +0000",
       "cave_spider": "2024-12-02 00:31:39 +0000",
       "witch": "2024-12-05 23:11:03 +0000",
+      "guardian": "2024-12-07 03:07:32 +0000",
       "spider": "2024-12-01 23:32:12 +0000",
       "ghast": "2024-12-06 23:23:05 +0000",
       "creeper": "2024-12-01 23:33:00 +0000",
@@ -1296,6 +1309,12 @@
   "astikorcarts:recipes/wheel": {
     "criteria": {
       "has_planks": "2024-12-01 04:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_brick_block": "2024-12-07 02:34:43 +0000"
     },
     "done": true
   },
@@ -2655,6 +2674,12 @@
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_light_blue_wool": "2024-12-05 00:32:07 +0000"
+    },
+    "done": true
+  },
+  "armorunder:recipes/misc/armor_warm_liners": {
+    "criteria": {
+      "has_warm_liner_material": "2024-12-07 02:43:42 +0000"
     },
     "done": true
   },
