@@ -564,6 +564,7 @@
       "vindicator": "2024-12-04 23:28:29 +0000",
       "skeleton": "2024-12-01 05:02:27 +0000",
       "husk": "2024-12-03 01:51:16 +0000",
+      "blaze": "2024-12-07 02:04:31 +0000",
       "zombie": "2024-12-01 04:25:23 +0000",
       "cave_spider": "2024-12-02 00:31:39 +0000",
       "witch": "2024-12-05 23:11:03 +0000",
@@ -781,6 +782,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2024-12-01 04:37:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:upgrade_quiver": {
+    "criteria": {
+      "quiver_arrow": "2024-12-07 01:51:01 +0000"
     },
     "done": true
   },
@@ -1532,6 +1539,12 @@
     },
     "done": true
   },
+  "spartanweaponry:quiver_light": {
+    "criteria": {
+      "quiver_arrow": "2024-12-07 01:23:58 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/armor/scale_golden_leggings": {
     "criteria": {
       "has_material": "2024-12-06 22:51:02 +0000"
@@ -1553,6 +1566,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-01 04:22:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:upgrade_quiver_max": {
+    "criteria": {
+      "quiver_arrow": "2024-12-07 01:52:16 +0000"
     },
     "done": true
   },
@@ -2168,6 +2187,12 @@
   "mujmajnkraftsbettersurvival:diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2024-12-02 02:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-07 02:04:31 +0000"
     },
     "done": true
   },

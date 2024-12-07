@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-07 01:43:11 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/misc/torch_hephaestite": {
     "criteria": {
       "has_material": "2024-12-02 03:04:45 +0000"
@@ -271,7 +277,8 @@
   },
   "defiledlands:main/discover_all_biomes": {
     "criteria": {
-      "desert_defiled": "2024-12-02 03:03:45 +0000"
+      "desert_defiled": "2024-12-02 03:03:45 +0000",
+      "plains_defiled": "2024-12-07 00:40:33 +0000"
     },
     "done": false
   },
@@ -497,7 +504,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2024-12-07 00:57:59 +0000",
       "zombie_villager": "2024-12-02 01:34:30 +0000",
+      "vindicator": "2024-12-07 00:58:03 +0000",
       "skeleton": "2024-12-01 05:01:07 +0000",
       "husk": "2024-12-02 03:00:37 +0000",
       "blaze": "2024-12-05 01:10:44 +0000",
@@ -956,6 +965,7 @@
       "swampland": "2024-12-01 04:48:16 +0000",
       "deep_ocean": "2024-12-02 00:11:19 +0000",
       "beaches": "2024-12-01 04:49:41 +0000",
+      "extreme_hills_with_trees": "2024-12-07 00:55:29 +0000",
       "desert_hills": "2024-12-02 22:46:11 +0000",
       "forest_hills": "2024-12-03 00:40:57 +0000",
       "savanna": "2024-12-01 04:45:11 +0000",
@@ -992,6 +1002,12 @@
   "defiledlands:recipes/tools/blastem_fruit_blazing": {
     "criteria": {
       "has_material": "2024-12-02 03:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-07 01:48:37 +0000"
     },
     "done": true
   },
@@ -1839,6 +1855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-07 00:51:52 +0000"
+    },
+    "done": true
+  },
   "defiledlands:recipes/armor/umbrium_chestplate": {
     "criteria": {
       "has_material": "2024-12-05 04:45:05 +0000"
@@ -2103,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2024-12-07 00:43:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-02 00:29:00 +0000"
@@ -2280,6 +2308,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_sheep": "2024-12-06 23:43:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2024-12-07 01:46:34 +0000"
     },
     "done": true
   },
