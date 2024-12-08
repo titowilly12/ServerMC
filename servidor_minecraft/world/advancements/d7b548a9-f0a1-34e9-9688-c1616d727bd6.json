@@ -628,6 +628,7 @@
       "blaze": "2024-12-02 00:46:54 +0000",
       "cave_spider": "2024-12-02 00:34:19 +0000",
       "zombie": "2024-12-02 00:13:39 +0000",
+      "silverfish": "2024-12-08 02:09:37 +0000",
       "witch": "2024-12-05 03:55:00 +0000",
       "spider": "2024-12-02 01:06:28 +0000",
       "creeper": "2024-12-02 01:41:26 +0000",
@@ -710,6 +711,12 @@
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2024-12-05 06:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-08 02:08:46 +0000"
     },
     "done": true
   },
