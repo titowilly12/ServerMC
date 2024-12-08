@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "armorunder:recipes/misc/warm_liner_material": {
+    "criteria": {
+      "has_heating_goo": "2024-12-07 23:59:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 01:58:47 +0000"
@@ -2785,6 +2791,12 @@
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_light_blue_wool": "2024-12-02 03:46:52 +0000"
+    },
+    "done": true
+  },
+  "armorunder:recipes/misc/armor_warm_liners": {
+    "criteria": {
+      "has_warm_liner_material": "2024-12-07 23:59:29 +0000"
     },
     "done": true
   },

@@ -1029,6 +1029,12 @@
     },
     "done": true
   },
+  "spartanweaponry:explode_creeper": {
+    "criteria": {
+      "killed_skeleton": "2024-12-07 23:52:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-01 04:43:46 +0000"
@@ -1218,6 +1224,12 @@
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2024-12-02 22:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2024-12-07 23:21:45 +0000"
     },
     "done": true
   },
