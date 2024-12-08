@@ -509,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-08 22:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2024-12-02 00:23:12 +0000"
@@ -1409,6 +1415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-08 22:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon_block": {
     "criteria": {
       "has_melon": "2024-12-03 04:10:23 +0000"
@@ -1547,6 +1559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-08 22:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-07 02:20:46 +0000"
@@ -1598,6 +1616,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 01:58:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-08 22:44:45 +0000"
     },
     "done": true
   },
@@ -2750,6 +2774,12 @@
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2024-12-03 01:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-08 22:44:45 +0000"
     },
     "done": true
   },
