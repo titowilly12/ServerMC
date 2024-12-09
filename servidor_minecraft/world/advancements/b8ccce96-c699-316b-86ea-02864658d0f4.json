@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-12-09 01:19:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-01 04:48:22 +0000"
@@ -146,6 +152,12 @@
   "defiledlands:recipes/armor/scale_chestplate": {
     "criteria": {
       "has_material": "2024-12-05 04:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-12-09 01:20:13 +0000"
     },
     "done": true
   },
@@ -529,6 +541,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2024-12-07 03:02:52 +0000",
+      "shulker": "2024-12-09 01:07:33 +0000",
       "wither_skeleton": "2024-12-07 00:57:59 +0000",
       "zombie_villager": "2024-12-02 01:34:30 +0000",
       "vindicator": "2024-12-07 00:58:03 +0000",
@@ -600,6 +613,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-09 00:48:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-01 04:53:25 +0000"
@@ -645,6 +664,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-12-05 01:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-09 00:50:30 +0000"
     },
     "done": true
   },
@@ -1036,6 +1061,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-12-09 01:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-12-07 01:48:37 +0000"
@@ -1153,6 +1184,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2024-12-02 23:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-09 01:21:01 +0000"
     },
     "done": true
   },
@@ -1450,6 +1487,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-09 00:30:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:upgrade_quiver_max": {
     "criteria": {
       "quiver_arrow": "2024-12-07 05:42:19 +0000"
@@ -1674,6 +1717,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2024-12-01 05:26:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-09 00:47:17 +0000"
     },
     "done": true
   },
@@ -2043,6 +2092,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-09 00:50:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-01 05:10:01 +0000"
@@ -2241,6 +2296,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-09 01:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2024-12-03 01:03:53 +0000"
@@ -2391,6 +2452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-12-09 01:20:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-01 05:17:40 +0000"
@@ -2412,6 +2479,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 02:32:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-09 00:50:30 +0000"
     },
     "done": true
   },

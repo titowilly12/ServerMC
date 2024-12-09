@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2024-12-09 01:12:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-02 01:58:47 +0000"
@@ -627,6 +633,7 @@
     "criteria": {
       "zombie_pigman": "2024-12-07 02:27:31 +0000",
       "stray": "2024-12-05 19:47:39 +0000",
+      "shulker": "2024-12-09 01:05:45 +0000",
       "zombie_villager": "2024-12-05 03:09:05 +0000",
       "vindicator": "2024-12-07 01:19:14 +0000",
       "skeleton": "2024-12-02 01:01:20 +0000",
@@ -783,6 +790,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2024-12-02 00:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-09 00:50:28 +0000"
     },
     "done": true
   },
@@ -1235,6 +1248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-12-09 01:12:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2024-12-05 20:13:17 +0000"
@@ -1370,6 +1389,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-05 19:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-12-09 01:05:52 +0000"
     },
     "done": true
   },
@@ -1700,6 +1725,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2024-12-02 01:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-09 00:30:51 +0000"
     },
     "done": true
   },
@@ -2357,6 +2388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2024-12-09 00:50:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-02 00:55:33 +0000"
@@ -2555,6 +2592,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-12-09 01:05:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2024-12-03 04:27:20 +0000"
@@ -2711,6 +2754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2024-12-09 01:12:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-02 01:02:07 +0000"
@@ -2726,6 +2775,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-02 02:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-09 00:50:28 +0000"
     },
     "done": true
   },
